@@ -1,0 +1,16 @@
+{
+  "accepted_count": 6,
+  "accepted_pairs": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "collisions": 0,
+  "dataset_created": false,
+  "episodes": 24,
+  "successes": 24,
+  "timeouts": 0
+}

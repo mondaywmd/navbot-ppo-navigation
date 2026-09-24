@@ -1,0 +1,43 @@
+{
+  "by_pillar_count": {
+    "1": {
+      "collision": 0,
+      "success": 4,
+      "timeout": 0
+    },
+    "2": {
+      "collision": 0,
+      "success": 8,
+      "timeout": 0
+    },
+    "3": {
+      "collision": 0,
+      "success": 0,
+      "timeout": 0
+    },
+    "4": {
+      "collision": 0,
+      "success": 4,
+      "timeout": 2
+    },
+    "5": {
+      "collision": 0,
+      "success": 1,
+      "timeout": 1
+    }
+  },
+  "counts": {
+    "collision": 0,
+    "success": 17,
+    "timeout": 3
+  },
+  "episodes": 20,
+  "mean_steps": 110.65,
+  "minimum_lidar": 0.21109499037265778,
+  "pairs": 10,
+  "permanent_ood_accessed": false,
+  "pillar_count_sampling": "uniform_random_1_to_5_per_pair",
+  "ppo_started": false,
+  "seed": 9051003,
+  "step_limit": 200
+}

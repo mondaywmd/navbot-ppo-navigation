@@ -1,0 +1,9 @@
+{
+  "counts": {
+    "success300": 12
+  },
+  "episodes": 12,
+  "permanent_ood_accessed": false,
+  "seed": 8042715,
+  "training": false
+}

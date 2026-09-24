@@ -1,0 +1,15 @@
+{
+  "scenes": [
+    {
+      "focus": "near",
+      "mirror_side": "positive",
+      "name": "diag_pair03_near_positive",
+      "pair": 3,
+      "pillar_x": 0.8310226739441658,
+      "pillar_y": 0.12429497546627412,
+      "robot_yaw_deg": 11.867559088274998,
+      "target_y": 0.1095945878318957
+    }
+  ],
+  "selection_rule": "highest early-collision count per mirror side; name tie-break"
+}

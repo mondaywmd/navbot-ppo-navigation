@@ -1,0 +1,16 @@
+clip: 0.2
+exp_id: v02_simple_env_60_reward_proportion
+gamma: 0.99
+hybrid_residual: false
+lr: 0.0003
+max_timesteps_per_episode: 300
+method_name: v4_bc_initialized_ppo_finetune_5k_seed7
+n_updates_per_iteration: 5
+native_residual: true
+normalize_returns: true
+output_dir: /root/catkin_ws/src/project_ppo/experiments/single_pillar_residual_ppo_v4_behavior_clone/runs
+render: true
+render_every_i: 10
+save_freq: 1
+seed: 7
+timesteps_per_batch: 500

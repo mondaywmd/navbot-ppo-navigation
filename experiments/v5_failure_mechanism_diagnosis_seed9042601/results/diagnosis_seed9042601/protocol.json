@@ -1,0 +1,11 @@
+{
+  "actor_episodes_per_scene": 3,
+  "deterministic_actor": true,
+  "early_collision_step": 30,
+  "exploration": false,
+  "max_steps": 300,
+  "rule_episodes_per_representative": 3,
+  "seed": 9042601,
+  "training": false,
+  "world_coordinates_in_actor_input": false
+}

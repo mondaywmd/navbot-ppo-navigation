@@ -1,0 +1,16 @@
+[
+  {
+    "pillar_count": 1,
+    "scene_seed": 371488550,
+    "outcome": "success",
+    "steps": 60,
+    "minimum_lidar": 0.33809369802474976
+  },
+  {
+    "pillar_count": 1,
+    "scene_seed": 1828725650,
+    "outcome": "success",
+    "steps": 60,
+    "minimum_lidar": 0.25153201818466187
+  }
+]

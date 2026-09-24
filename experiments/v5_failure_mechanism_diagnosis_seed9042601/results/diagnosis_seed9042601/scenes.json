@@ -1,0 +1,250 @@
+{
+  "generator": {
+    "far_pillar_x": [
+      1.08,
+      1.22
+    ],
+    "mirror_fields": [
+      "pillar_y",
+      "target_y",
+      "robot_yaw_deg"
+    ],
+    "near_pillar_x": [
+      0.78,
+      0.94
+    ],
+    "pillar_y_magnitude": [
+      0.045,
+      0.135
+    ],
+    "robot_yaw_magnitude_deg": [
+      4.0,
+      12.0
+    ],
+    "target_y_magnitude": [
+      0.035,
+      0.12
+    ]
+  },
+  "scenes": [
+    {
+      "focus": "near",
+      "mirror_side": "positive",
+      "name": "diag_pair01_near_positive",
+      "pair": 1,
+      "pillar_x": 0.914405341606194,
+      "pillar_y": 0.06533550022598392,
+      "robot_yaw_deg": 5.8538305267790465,
+      "target_y": 0.05373723638612055
+    },
+    {
+      "focus": "near",
+      "mirror_side": "negative",
+      "name": "diag_pair01_near_negative",
+      "pair": 1,
+      "pillar_x": 0.914405341606194,
+      "pillar_y": -0.06533550022598392,
+      "robot_yaw_deg": -5.8538305267790465,
+      "target_y": -0.05373723638612055
+    },
+    {
+      "focus": "near",
+      "mirror_side": "positive",
+      "name": "diag_pair02_near_positive",
+      "pair": 2,
+      "pillar_x": 0.8749935532961471,
+      "pillar_y": 0.06149491271192199,
+      "robot_yaw_deg": 10.507500037795799,
+      "target_y": 0.06647624494486606
+    },
+    {
+      "focus": "near",
+      "mirror_side": "negative",
+      "name": "diag_pair02_near_negative",
+      "pair": 2,
+      "pillar_x": 0.8749935532961471,
+      "pillar_y": -0.06149491271192199,
+      "robot_yaw_deg": -10.507500037795799,
+      "target_y": -0.06647624494486606
+    },
+    {
+      "focus": "near",
+      "mirror_side": "positive",
+      "name": "diag_pair03_near_positive",
+      "pair": 3,
+      "pillar_x": 0.8310226739441658,
+      "pillar_y": 0.12429497546627412,
+      "robot_yaw_deg": 11.867559088274998,
+      "target_y": 0.1095945878318957
+    },
+    {
+      "focus": "near",
+      "mirror_side": "negative",
+      "name": "diag_pair03_near_negative",
+      "pair": 3,
+      "pillar_x": 0.8310226739441658,
+      "pillar_y": -0.12429497546627412,
+      "robot_yaw_deg": -11.867559088274998,
+      "target_y": -0.1095945878318957
+    },
+    {
+      "focus": "far",
+      "mirror_side": "positive",
+      "name": "diag_pair04_far_positive",
+      "pair": 4,
+      "pillar_x": 1.116994085704629,
+      "pillar_y": 0.09230106882604758,
+      "robot_yaw_deg": 8.119059720399916,
+      "target_y": 0.08540574903927882
+    },
+    {
+      "focus": "far",
+      "mirror_side": "negative",
+      "name": "diag_pair04_far_negative",
+      "pair": 4,
+      "pillar_x": 1.116994085704629,
+      "pillar_y": -0.09230106882604758,
+      "robot_yaw_deg": -8.119059720399916,
+      "target_y": -0.08540574903927882
+    },
+    {
+      "focus": "far",
+      "mirror_side": "positive",
+      "name": "diag_pair05_far_positive",
+      "pair": 5,
+      "pillar_x": 1.1439919065239048,
+      "pillar_y": 0.08038040104369276,
+      "robot_yaw_deg": 11.027694968372208,
+      "target_y": 0.05235586638512406
+    },
+    {
+      "focus": "far",
+      "mirror_side": "negative",
+      "name": "diag_pair05_far_negative",
+      "pair": 5,
+      "pillar_x": 1.1439919065239048,
+      "pillar_y": -0.08038040104369276,
+      "robot_yaw_deg": -11.027694968372208,
+      "target_y": -0.05235586638512406
+    },
+    {
+      "focus": "far",
+      "mirror_side": "positive",
+      "name": "diag_pair06_far_positive",
+      "pair": 6,
+      "pillar_x": 1.105044123252671,
+      "pillar_y": 0.04737608212077858,
+      "robot_yaw_deg": 7.151316253689582,
+      "target_y": 0.07860576180858758
+    },
+    {
+      "focus": "far",
+      "mirror_side": "negative",
+      "name": "diag_pair06_far_negative",
+      "pair": 6,
+      "pillar_x": 1.105044123252671,
+      "pillar_y": -0.04737608212077858,
+      "robot_yaw_deg": -7.151316253689582,
+      "target_y": -0.07860576180858758
+    }
+  ],
+  "seed": 9042601,
+  "static_checks": [
+    {
+      "direct_route_offset": 0.04075198499219626,
+      "legal": true,
+      "name": "diag_pair01_near_positive",
+      "pillar_target_margin": 0.6056566133254397,
+      "pillar_wall_margin": 2.7355946583938064,
+      "robot_pillar_margin": 0.4367365250428937
+    },
+    {
+      "direct_route_offset": 0.04075198499219626,
+      "legal": true,
+      "name": "diag_pair01_near_negative",
+      "pillar_target_margin": 0.6056566133254397,
+      "pillar_wall_margin": 2.7355946583938064,
+      "robot_pillar_margin": 0.4367365250428937
+    },
+    {
+      "direct_route_offset": 0.03239388082535522,
+      "legal": true,
+      "name": "diag_pair02_near_positive",
+      "pillar_target_margin": 0.6450174748847433,
+      "pillar_wall_margin": 2.7750064467038533,
+      "robot_pillar_margin": 0.39715183554460204
+    },
+    {
+      "direct_route_offset": 0.03239388082535522,
+      "legal": true,
+      "name": "diag_pair02_near_negative",
+      "pillar_target_margin": 0.6450174748847433,
+      "pillar_wall_margin": 2.7750064467038533,
+      "robot_pillar_margin": 0.39715183554460204
+    },
+    {
+      "direct_route_offset": 0.0786392035739403,
+      "legal": true,
+      "name": "diag_pair03_near_positive",
+      "pillar_target_margin": 0.6890697542188187,
+      "pillar_wall_margin": 2.8189773260558346,
+      "robot_pillar_margin": 0.3602665800419967
+    },
+    {
+      "direct_route_offset": 0.0786392035739403,
+      "legal": true,
+      "name": "diag_pair03_near_negative",
+      "pillar_target_margin": 0.6890697542188187,
+      "pillar_wall_margin": 2.8189773260558346,
+      "robot_pillar_margin": 0.3602665800419967
+    },
+    {
+      "direct_route_offset": 0.04456159922175231,
+      "legal": true,
+      "name": "diag_pair04_far_positive",
+      "pillar_target_margin": 0.403032836374484,
+      "pillar_wall_margin": 2.533005914295371,
+      "robot_pillar_margin": 0.6408011754122811
+    },
+    {
+      "direct_route_offset": 0.04456159922175231,
+      "legal": true,
+      "name": "diag_pair04_far_negative",
+      "pillar_target_margin": 0.403032836374484,
+      "pillar_wall_margin": 2.533005914295371,
+      "robot_pillar_margin": 0.6408011754122811
+    },
+    {
+      "direct_route_offset": 0.0504157857300135,
+      "legal": true,
+      "name": "diag_pair05_far_positive",
+      "pillar_target_margin": 0.376466713094799,
+      "pillar_wall_margin": 2.5060080934760958,
+      "robot_pillar_margin": 0.6668123172795728
+    },
+    {
+      "direct_route_offset": 0.0504157857300135,
+      "legal": true,
+      "name": "diag_pair05_far_negative",
+      "pillar_target_margin": 0.376466713094799,
+      "pillar_wall_margin": 2.5060080934760958,
+      "robot_pillar_margin": 0.6668123172795728
+    },
+    {
+      "direct_route_offset": 0.003941621381655098,
+      "legal": true,
+      "name": "diag_pair06_far_positive",
+      "pillar_target_margin": 0.4155005942030319,
+      "pillar_wall_margin": 2.5449558767473293,
+      "robot_pillar_margin": 0.626059224224625
+    },
+    {
+      "direct_route_offset": 0.003941621381655098,
+      "legal": true,
+      "name": "diag_pair06_far_negative",
+      "pillar_target_margin": 0.4155005942030319,
+      "pillar_wall_margin": 2.5449558767473293,
+      "robot_pillar_margin": 0.626059224224625
+    }
+  ]
+}

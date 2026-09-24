@@ -1,0 +1,7 @@
+level,scene,side,outcome,steps,step_limit,official_step_limit,diagnostic_extension,minimum_lidar,distance_at_limit,final_distance,shield_reasons
+1,level1_00001,base,success,120,500,500,False,0.2083345353603363,,0.17301423874160002,"{""barrier_align"": 10, ""barrier_depart"": 93, ""clear"": 16}"
+1,level1_00001_mirror,mirror,success,99,500,500,False,0.2200034260749817,,0.19271784506423612,"{""barrier_align"": 17, ""barrier_depart"": 66, ""clear"": 15}"
+2,level2_00001,base,success,98,500,500,False,0.300717830657959,,0.17791796587318856,"{""barrier_depart"": 95, ""clear"": 2}"
+2,level2_00001_mirror,mirror,success,112,500,500,False,0.22343632578849792,,0.17138949739165182,"{""barrier_align"": 5, ""barrier_depart"": 106}"
+3,level3_00001,base,success,181,500,500,False,0.21232324838638306,,0.16629801834319877,"{""barrier_align"": 23, ""barrier_depart"": 154, ""clear"": 3}"
+3,level3_00001_mirror,mirror,success,105,500,500,False,0.21537919342517853,,0.16551962918133842,"{""barrier_align"": 4, ""barrier_depart"": 97, ""clear"": 3}"

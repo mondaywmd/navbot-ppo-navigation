@@ -1,0 +1,16 @@
+clip: 0.2
+exp_id: v02_simple_env_60_reward_proportion
+gamma: 0.99
+hybrid_residual: false
+lr: 0.0003
+max_timesteps_per_episode: 300
+method_name: v5_v4init_pillar_y_curriculum_10k_seed29
+n_updates_per_iteration: 5
+native_residual: true
+normalize_returns: true
+output_dir: /root/catkin_ws/src/project_ppo/experiments/single_pillar_residual_ppo_v5_balanced_curriculum/runs
+render: true
+render_every_i: 10
+save_freq: 1
+seed: 29
+timesteps_per_batch: 500

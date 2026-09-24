@@ -1,0 +1,7 @@
+name,level,side,outcome,steps,min_lidar,path_points
+level1_00001,1,base,success,91,0.3096291124820709,22
+level1_00001_mirror,1,mirror,success,90,0.3217979371547699,22
+level2_00001,2,base,success,110,0.25573503971099854,30
+level2_00001_mirror,2,mirror,success,110,0.27122777700424194,30
+level3_00001,3,base,success,119,0.3364630341529846,34
+level3_00001_mirror,3,mirror,success,120,0.33656129240989685,34

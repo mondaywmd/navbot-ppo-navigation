@@ -1,0 +1,197 @@
+{
+  "actor_overall": {
+    "collision": 5,
+    "success": 30,
+    "timeout": 1
+  },
+  "architecture_evidence": "control_did_not_find_path",
+  "early_collision_episodes": [
+    {
+      "controller": "v5_actor",
+      "episode": "1",
+      "focus": "near",
+      "min_lidar": "0.19439545273780823",
+      "mirror_side": "positive",
+      "outcome": "collision",
+      "pair": "2",
+      "scene": "diag_pair02_near_positive",
+      "steps": "19"
+    },
+    {
+      "controller": "v5_actor",
+      "episode": "3",
+      "focus": "near",
+      "min_lidar": "0.18189997971057892",
+      "mirror_side": "positive",
+      "outcome": "collision",
+      "pair": "2",
+      "scene": "diag_pair02_near_positive",
+      "steps": "19"
+    },
+    {
+      "controller": "v5_actor",
+      "episode": "1",
+      "focus": "near",
+      "min_lidar": "0.19118045270442963",
+      "mirror_side": "positive",
+      "outcome": "collision",
+      "pair": "3",
+      "scene": "diag_pair03_near_positive",
+      "steps": "15"
+    },
+    {
+      "controller": "v5_actor",
+      "episode": "2",
+      "focus": "near",
+      "min_lidar": "0.16821162402629852",
+      "mirror_side": "positive",
+      "outcome": "collision",
+      "pair": "3",
+      "scene": "diag_pair03_near_positive",
+      "steps": "17"
+    },
+    {
+      "controller": "v5_actor",
+      "episode": "3",
+      "focus": "near",
+      "min_lidar": "0.19547496736049652",
+      "mirror_side": "positive",
+      "outcome": "collision",
+      "pair": "3",
+      "scene": "diag_pair03_near_positive",
+      "steps": "16"
+    }
+  ],
+  "minimal_next_hypothesis": "The fixed reactive control did not find a path; this is not proof of physical infeasibility. More controller-level feasibility diagnosis is required.",
+  "pair_comparison": [
+    {
+      "focus": "near",
+      "negative": {
+        "collision": 0,
+        "success": 3,
+        "timeout": 0
+      },
+      "pair": 1,
+      "positive": {
+        "collision": 0,
+        "success": 3,
+        "timeout": 0
+      }
+    },
+    {
+      "focus": "near",
+      "negative": {
+        "collision": 0,
+        "success": 3,
+        "timeout": 0
+      },
+      "pair": 2,
+      "positive": {
+        "collision": 2,
+        "success": 1,
+        "timeout": 0
+      }
+    },
+    {
+      "focus": "near",
+      "negative": {
+        "collision": 0,
+        "success": 3,
+        "timeout": 0
+      },
+      "pair": 3,
+      "positive": {
+        "collision": 3,
+        "success": 0,
+        "timeout": 0
+      }
+    },
+    {
+      "focus": "far",
+      "negative": {
+        "collision": 0,
+        "success": 3,
+        "timeout": 0
+      },
+      "pair": 4,
+      "positive": {
+        "collision": 0,
+        "success": 3,
+        "timeout": 0
+      }
+    },
+    {
+      "focus": "far",
+      "negative": {
+        "collision": 0,
+        "success": 3,
+        "timeout": 0
+      },
+      "pair": 5,
+      "positive": {
+        "collision": 0,
+        "success": 2,
+        "timeout": 1
+      }
+    },
+    {
+      "focus": "far",
+      "negative": {
+        "collision": 0,
+        "success": 3,
+        "timeout": 0
+      },
+      "pair": 6,
+      "positive": {
+        "collision": 0,
+        "success": 3,
+        "timeout": 0
+      }
+    }
+  ],
+  "rule_overall": {
+    "collision": 0,
+    "success": 0,
+    "timeout": 3
+  },
+  "safe_timeout_analysis": [
+    {
+      "angular_sign_persistence": 0.5081967213114754,
+      "classification": "evidence_insufficient",
+      "distance_progress": 0.9570177502853874,
+      "episode": 2,
+      "final_abs_goal_angle_deg": 86.14,
+      "mean_abs_angular": 0.40167339078959874,
+      "mean_abs_goal_angle_deg": 72.09639344262294,
+      "mean_linear": 0.07427067291296896,
+      "post_steps": 122,
+      "scene": "diag_pair05_far_positive"
+    }
+  ],
+  "success_timeout_comparison": [
+    {
+      "classification": "evidence_insufficient",
+      "scene": "diag_pair05_far_positive",
+      "success": {
+        "angular_sign_persistence": 0.6349206349206349,
+        "distance_progress": 0.9469098189522002,
+        "final_abs_goal_angle_deg": 17.96,
+        "mean_abs_angular": 0.392785798226084,
+        "mean_abs_goal_angle_deg": 40.21095238095238,
+        "mean_linear": 0.10675942353785985,
+        "post_steps": 63
+      },
+      "success_episode": 1,
+      "timeout": {
+        "angular_sign_persistence": 0.5081967213114754,
+        "distance_progress": 0.9570177502853874,
+        "final_abs_goal_angle_deg": 86.14,
+        "mean_abs_angular": 0.40167339078959874,
+        "mean_abs_goal_angle_deg": 72.09639344262294,
+        "mean_linear": 0.07427067291296896,
+        "post_steps": 122
+      },
+      "timeout_episode": 2
+    }
+  ]
+}

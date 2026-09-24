@@ -1,0 +1,23 @@
+{
+  "candidate": 2,
+  "level": 2,
+  "prior_outcomes": {
+    "base": "timeout300",
+    "mirror": "timeout300"
+  },
+  "rows": [
+    {
+      "distance300": 2.21113052938689,
+      "final_distance": 2.235301158843006,
+      "level": 2,
+      "minimum_lidar": 0.20676644146442413,
+      "outcome": "progress450",
+      "scene": "level2_00002",
+      "shield_reasons": "{\"clear\": 37, \"emergency_stop\": 127, \"escape_release_clear\": 1, \"escape_release_emergency_stop\": 1, \"slow\": 28, \"tangent_depart\": 98, \"tangent_rotate_only\": 27, \"tangent_turn\": 131}",
+      "side": "base",
+      "steps": 450
+    }
+  ],
+  "source_seed": 9042702,
+  "training": false
+}

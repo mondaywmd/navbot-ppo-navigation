@@ -1,0 +1,125 @@
+{
+  "scenes": [
+    {
+      "detour_sign": 1.0,
+      "name": "pair_01_base",
+      "pair": 1,
+      "pillar_x": 0.9985476916315827,
+      "pillar_y": -0.0905069814488847,
+      "robot_yaw_deg": -3.8358625282300562,
+      "side": "base",
+      "target_y": -0.04797669945295879
+    },
+    {
+      "detour_sign": -1.0,
+      "name": "pair_01_mirror",
+      "pair": 1,
+      "pillar_x": 0.9985476916315827,
+      "pillar_y": 0.0905069814488847,
+      "robot_yaw_deg": 3.8358625282300562,
+      "side": "mirror",
+      "target_y": 0.04797669945295879
+    },
+    {
+      "detour_sign": 1.0,
+      "name": "pair_02_base",
+      "pair": 2,
+      "pillar_x": 0.9699166500214408,
+      "pillar_y": 0.13671692681811448,
+      "robot_yaw_deg": -2.163350738932635,
+      "side": "base",
+      "target_y": 0.028877293598024795
+    },
+    {
+      "detour_sign": -1.0,
+      "name": "pair_02_mirror",
+      "pair": 2,
+      "pillar_x": 0.9699166500214408,
+      "pillar_y": -0.13671692681811448,
+      "robot_yaw_deg": 2.163350738932635,
+      "side": "mirror",
+      "target_y": -0.028877293598024795
+    },
+    {
+      "detour_sign": 1.0,
+      "name": "pair_03_base",
+      "pair": 3,
+      "pillar_x": 0.9578249446660443,
+      "pillar_y": 0.10943319782089,
+      "robot_yaw_deg": -0.8282863608980247,
+      "side": "base",
+      "target_y": -0.05245229688564876
+    },
+    {
+      "detour_sign": -1.0,
+      "name": "pair_03_mirror",
+      "pair": 3,
+      "pillar_x": 0.9578249446660443,
+      "pillar_y": -0.10943319782089,
+      "robot_yaw_deg": 0.8282863608980247,
+      "side": "mirror",
+      "target_y": 0.05245229688564876
+    },
+    {
+      "detour_sign": 1.0,
+      "name": "pair_04_base",
+      "pair": 4,
+      "pillar_x": 1.0833504587219918,
+      "pillar_y": 0.052151461872380456,
+      "robot_yaw_deg": 0.12862592826235364,
+      "side": "base",
+      "target_y": -0.01200184824743078
+    },
+    {
+      "detour_sign": -1.0,
+      "name": "pair_04_mirror",
+      "pair": 4,
+      "pillar_x": 1.0833504587219918,
+      "pillar_y": -0.052151461872380456,
+      "robot_yaw_deg": -0.12862592826235364,
+      "side": "mirror",
+      "target_y": 0.01200184824743078
+    },
+    {
+      "detour_sign": 1.0,
+      "name": "pair_05_base",
+      "pair": 5,
+      "pillar_x": 0.9578759518238822,
+      "pillar_y": -0.07533520378369933,
+      "robot_yaw_deg": 0.20430844023520933,
+      "side": "base",
+      "target_y": -0.03425693495771018
+    },
+    {
+      "detour_sign": -1.0,
+      "name": "pair_05_mirror",
+      "pair": 5,
+      "pillar_x": 0.9578759518238822,
+      "pillar_y": 0.07533520378369933,
+      "robot_yaw_deg": -0.20430844023520933,
+      "side": "mirror",
+      "target_y": 0.03425693495771018
+    },
+    {
+      "detour_sign": 1.0,
+      "name": "pair_06_base",
+      "pair": 6,
+      "pillar_x": 1.1178252342320822,
+      "pillar_y": -0.12816677628003728,
+      "robot_yaw_deg": -3.143042335875973,
+      "side": "base",
+      "target_y": -0.14204205049030943
+    },
+    {
+      "detour_sign": -1.0,
+      "name": "pair_06_mirror",
+      "pair": 6,
+      "pillar_x": 1.1178252342320822,
+      "pillar_y": 0.12816677628003728,
+      "robot_yaw_deg": 3.143042335875973,
+      "side": "mirror",
+      "target_y": 0.14204205049030943
+    }
+  ],
+  "seed": 8042702
+}

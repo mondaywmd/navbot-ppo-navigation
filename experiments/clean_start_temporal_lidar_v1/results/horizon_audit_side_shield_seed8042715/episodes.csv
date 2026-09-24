@@ -1,0 +1,13 @@
+level,scene,side,outcome,steps,minimum_lidar,distance300,final_distance,shield_reasons
+1,level1_00001,base,success300,92,0.3850538730621338,,0.17375995740508393,"{""clear"": 51, ""turn_side_slow"": 40}"
+1,level1_00001_mirror,mirror,success300,92,0.390127956867218,,0.16557026219582374,"{""clear"": 50, ""turn_side_slow"": 41}"
+1,level1_00002,base,success300,88,0.36360928416252136,,0.17536594837708275,"{""clear"": 35, ""turn_side_slow"": 52}"
+1,level1_00002_mirror,mirror,success300,97,0.35696086287498474,,0.18303067390582717,"{""clear"": 31, ""turn_side_slow"": 65}"
+2,level2_00001,base,success300,227,0.3211027681827545,,0.1978458685996991,"{""clear"": 45, ""predictive_stop"": 4, ""turn_side_slow"": 177}"
+2,level2_00001_mirror,mirror,success300,203,0.33023595809936523,,0.18644921970159878,"{""clear"": 46, ""predictive_stop"": 4, ""turn_side_slow"": 152}"
+2,level2_00002,base,success300,130,0.33054786920547485,,0.17640914626610898,"{""clear"": 45, ""predictive_stop"": 2, ""turn_side_slow"": 82}"
+2,level2_00002_mirror,mirror,success300,127,0.32398220896720886,,0.19421200409337636,"{""clear"": 44, ""predictive_stop"": 1, ""turn_side_slow"": 81}"
+3,level3_00001,base,success300,118,0.37165966629981995,,0.19556439306430962,"{""clear"": 43, ""predictive_stop"": 1, ""slow"": 3, ""turn_side_slow"": 70}"
+3,level3_00001_mirror,mirror,success300,117,0.3775012493133545,,0.17328902914781377,"{""clear"": 45, ""turn_side_slow"": 71}"
+3,level3_00002,base,success300,258,0.32730206847190857,,0.19344575644611647,"{""clear"": 31, ""turn_side_slow"": 226}"
+3,level3_00002_mirror,mirror,success300,239,0.32425111532211304,,0.17959427844047537,"{""clear"": 38, ""turn_side_slow"": 200}"

@@ -1,0 +1,11 @@
+scenario,episode,outcome,steps,min_lidar
+center_single_pillar,1,success,217,0.2951318025588989
+center_single_pillar,2,success,201,0.2273842692375183
+center_single_pillar,3,success,208,0.2998862564563751
+center_single_pillar,4,success,219,0.2739230692386627
+center_single_pillar,5,success,214,0.30130574107170105
+center_single_pillar,6,success,204,0.2747177481651306
+center_single_pillar,7,success,209,0.29335954785346985
+center_single_pillar,8,success,217,0.35767361521720886
+center_single_pillar,9,success,223,0.2818402945995331
+center_single_pillar,10,success,221,0.29341620206832886

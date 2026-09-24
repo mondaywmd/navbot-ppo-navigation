@@ -1,0 +1,280 @@
+{
+  "collisions": 0,
+  "dataset_created": false,
+  "episodes": [
+    {
+      "level": 1,
+      "min_lidar": 0.25516074895858765,
+      "name": "level1_00001",
+      "outcome": "success",
+      "path_points": 21,
+      "side": "base",
+      "steps": 75
+    },
+    {
+      "level": 1,
+      "min_lidar": 0.2676323652267456,
+      "name": "level1_00001_mirror",
+      "outcome": "success",
+      "path_points": 21,
+      "side": "mirror",
+      "steps": 75
+    },
+    {
+      "level": 1,
+      "min_lidar": 0.29739511013031006,
+      "name": "level1_00002",
+      "outcome": "success",
+      "path_points": 18,
+      "side": "base",
+      "steps": 66
+    },
+    {
+      "level": 1,
+      "min_lidar": 0.3056636452674866,
+      "name": "level1_00002_mirror",
+      "outcome": "success",
+      "path_points": 18,
+      "side": "mirror",
+      "steps": 65
+    },
+    {
+      "level": 1,
+      "min_lidar": 0.30298081040382385,
+      "name": "level1_00003",
+      "outcome": "success",
+      "path_points": 26,
+      "side": "base",
+      "steps": 99
+    },
+    {
+      "level": 1,
+      "min_lidar": 0.2958303391933441,
+      "name": "level1_00003_mirror",
+      "outcome": "success",
+      "path_points": 26,
+      "side": "mirror",
+      "steps": 100
+    },
+    {
+      "level": 1,
+      "min_lidar": 0.3078908622264862,
+      "name": "level1_00004",
+      "outcome": "success",
+      "path_points": 26,
+      "side": "base",
+      "steps": 97
+    },
+    {
+      "level": 1,
+      "min_lidar": 0.3013560473918915,
+      "name": "level1_00004_mirror",
+      "outcome": "success",
+      "path_points": 26,
+      "side": "mirror",
+      "steps": 101
+    },
+    {
+      "level": 1,
+      "min_lidar": 0.3021917939186096,
+      "name": "level1_00005",
+      "outcome": "success",
+      "path_points": 24,
+      "side": "base",
+      "steps": 93
+    },
+    {
+      "level": 1,
+      "min_lidar": 0.29651370644569397,
+      "name": "level1_00005_mirror",
+      "outcome": "success",
+      "path_points": 24,
+      "side": "mirror",
+      "steps": 96
+    },
+    {
+      "level": 2,
+      "min_lidar": 0.332128643989563,
+      "name": "level2_00001",
+      "outcome": "success",
+      "path_points": 25,
+      "side": "base",
+      "steps": 90
+    },
+    {
+      "level": 2,
+      "min_lidar": 0.3043334484100342,
+      "name": "level2_00001_mirror",
+      "outcome": "success",
+      "path_points": 25,
+      "side": "mirror",
+      "steps": 90
+    },
+    {
+      "level": 2,
+      "min_lidar": 0.2902887761592865,
+      "name": "level2_00002",
+      "outcome": "success",
+      "path_points": 32,
+      "side": "base",
+      "steps": 114
+    },
+    {
+      "level": 2,
+      "min_lidar": 0.28347527980804443,
+      "name": "level2_00002_mirror",
+      "outcome": "success",
+      "path_points": 32,
+      "side": "mirror",
+      "steps": 115
+    },
+    {
+      "level": 2,
+      "min_lidar": 0.3050265312194824,
+      "name": "level2_00003",
+      "outcome": "success",
+      "path_points": 33,
+      "side": "base",
+      "steps": 134
+    },
+    {
+      "level": 2,
+      "min_lidar": 0.3016950488090515,
+      "name": "level2_00003_mirror",
+      "outcome": "success",
+      "path_points": 33,
+      "side": "mirror",
+      "steps": 133
+    },
+    {
+      "level": 2,
+      "min_lidar": 0.22011205554008484,
+      "name": "level2_00004",
+      "outcome": "success",
+      "path_points": 28,
+      "side": "base",
+      "steps": 110
+    },
+    {
+      "level": 2,
+      "min_lidar": 0.2543089687824249,
+      "name": "level2_00004_mirror",
+      "outcome": "success",
+      "path_points": 28,
+      "side": "mirror",
+      "steps": 108
+    },
+    {
+      "level": 2,
+      "min_lidar": 0.24437786638736725,
+      "name": "level2_00005",
+      "outcome": "success",
+      "path_points": 30,
+      "side": "base",
+      "steps": 118
+    },
+    {
+      "level": 2,
+      "min_lidar": 0.24470992386341095,
+      "name": "level2_00005_mirror",
+      "outcome": "success",
+      "path_points": 30,
+      "side": "mirror",
+      "steps": 118
+    },
+    {
+      "level": 3,
+      "min_lidar": 0.30712729692459106,
+      "name": "level3_00001",
+      "outcome": "success",
+      "path_points": 33,
+      "side": "base",
+      "steps": 135
+    },
+    {
+      "level": 3,
+      "min_lidar": 0.31443142890930176,
+      "name": "level3_00001_mirror",
+      "outcome": "success",
+      "path_points": 33,
+      "side": "mirror",
+      "steps": 128
+    },
+    {
+      "level": 3,
+      "min_lidar": 0.3219423294067383,
+      "name": "level3_00002",
+      "outcome": "success",
+      "path_points": 33,
+      "side": "base",
+      "steps": 132
+    },
+    {
+      "level": 3,
+      "min_lidar": 0.3244699239730835,
+      "name": "level3_00002_mirror",
+      "outcome": "success",
+      "path_points": 33,
+      "side": "mirror",
+      "steps": 131
+    },
+    {
+      "level": 3,
+      "min_lidar": 0.2824110984802246,
+      "name": "level3_00003",
+      "outcome": "success",
+      "path_points": 34,
+      "side": "base",
+      "steps": 120
+    },
+    {
+      "level": 3,
+      "min_lidar": 0.28610095381736755,
+      "name": "level3_00003_mirror",
+      "outcome": "success",
+      "path_points": 34,
+      "side": "mirror",
+      "steps": 121
+    },
+    {
+      "level": 3,
+      "min_lidar": 0.2928548753261566,
+      "name": "level3_00004",
+      "outcome": "success",
+      "path_points": 31,
+      "side": "base",
+      "steps": 112
+    },
+    {
+      "level": 3,
+      "min_lidar": 0.2966386377811432,
+      "name": "level3_00004_mirror",
+      "outcome": "success",
+      "path_points": 31,
+      "side": "mirror",
+      "steps": 113
+    },
+    {
+      "level": 3,
+      "min_lidar": 0.3036719262599945,
+      "name": "level3_00005",
+      "outcome": "success",
+      "path_points": 33,
+      "side": "base",
+      "steps": 127
+    },
+    {
+      "level": 3,
+      "min_lidar": 0.31044498085975647,
+      "name": "level3_00005_mirror",
+      "outcome": "success",
+      "path_points": 33,
+      "side": "mirror",
+      "steps": 120
+    }
+  ],
+  "seed": 8042704,
+  "successes": 30,
+  "timeouts": 0,
+  "training": false
+}

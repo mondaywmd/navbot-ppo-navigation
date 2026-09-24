@@ -1,0 +1,18 @@
+{
+  "actual_steps": 10010,
+  "bc_initialization": "experiments/clean_start_temporal_lidar_v1/runs/clean_bc_1to5_seed9051002/actor_bc_best.pth",
+  "counts": {
+    "collision": 1,
+    "success": 92,
+    "timeout": 5
+  },
+  "episodes": 98,
+  "exact_mirror_actor": true,
+  "iterations": 12,
+  "online_uniform_random_pillars_1_to_5": true,
+  "permanent_ood_accessed": false,
+  "requested_steps": 10000,
+  "seed": 9051006,
+  "smoke": false,
+  "step_limit": 200
+}

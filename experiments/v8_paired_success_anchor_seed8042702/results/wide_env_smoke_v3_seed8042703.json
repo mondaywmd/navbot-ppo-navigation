@@ -1,0 +1,127 @@
+{
+  "passed": true,
+  "resets": [
+    {
+      "level": 1,
+      "min_lidar": 0.7795595526695251,
+      "name": "level1_00001",
+      "observation_dim": 16,
+      "observation_finite": true,
+      "obstacle0_actual": [
+        0.93636,
+        0.334657
+      ],
+      "obstacle_count": 1,
+      "target_actual": [
+        1.961025280071017,
+        0.6345733556873261
+      ],
+      "target_requested": [
+        1.961025280071017,
+        0.6345733556873261
+      ]
+    },
+    {
+      "level": 1,
+      "min_lidar": 0.791229248046875,
+      "name": "level1_00001_mirror",
+      "observation_dim": 16,
+      "observation_finite": true,
+      "obstacle0_actual": [
+        0.93636,
+        -0.334657
+      ],
+      "obstacle_count": 1,
+      "target_actual": [
+        1.961025280071017,
+        -0.6345733556873261
+      ],
+      "target_requested": [
+        1.961025280071017,
+        -0.6345733556873261
+      ]
+    },
+    {
+      "level": 2,
+      "min_lidar": 0.4117417335510254,
+      "name": "level2_00001",
+      "observation_dim": 16,
+      "observation_finite": true,
+      "obstacle0_actual": [
+        0.62218,
+        0.337377
+      ],
+      "obstacle_count": 2,
+      "target_actual": [
+        2.361351880783282,
+        0.3729886501867854
+      ],
+      "target_requested": [
+        2.361351880783282,
+        0.3729886501867854
+      ]
+    },
+    {
+      "level": 2,
+      "min_lidar": 0.38323161005973816,
+      "name": "level2_00001_mirror",
+      "observation_dim": 16,
+      "observation_finite": true,
+      "obstacle0_actual": [
+        0.62218,
+        -0.337377
+      ],
+      "obstacle_count": 2,
+      "target_actual": [
+        2.361351880783282,
+        -0.3729886501867854
+      ],
+      "target_requested": [
+        2.361351880783282,
+        -0.3729886501867854
+      ]
+    },
+    {
+      "level": 3,
+      "min_lidar": 0.6594358682632446,
+      "name": "level3_00001",
+      "observation_dim": 16,
+      "observation_finite": true,
+      "obstacle0_actual": [
+        0.539053,
+        -0.698536
+      ],
+      "obstacle_count": 3,
+      "target_actual": [
+        2.826427034431556,
+        -0.6778919658716698
+      ],
+      "target_requested": [
+        2.826427034431556,
+        -0.6778919658716698
+      ]
+    },
+    {
+      "level": 3,
+      "min_lidar": 0.6722748875617981,
+      "name": "level3_00001_mirror",
+      "observation_dim": 16,
+      "observation_finite": true,
+      "obstacle0_actual": [
+        0.539053,
+        0.698536
+      ],
+      "obstacle_count": 3,
+      "target_actual": [
+        2.826427034431556,
+        0.6778919658716698
+      ],
+      "target_requested": [
+        2.826427034431556,
+        0.6778919658716698
+      ]
+    }
+  ],
+  "seed": 8042703,
+  "training": false
+}

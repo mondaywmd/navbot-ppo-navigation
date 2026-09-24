@@ -1,0 +1,76 @@
+{
+  "by_level": {
+    "1": {
+      "collision": 0,
+      "episodes": 4,
+      "minimum_lidar_mean": 0.34291935712099075,
+      "minimum_lidar_min": 0.3311844766139984,
+      "steps_max": 73,
+      "steps_mean": 68,
+      "steps_median": 68.0,
+      "success": 4,
+      "timeout": 0
+    },
+    "2": {
+      "collision": 0,
+      "episodes": 4,
+      "minimum_lidar_mean": 0.3168375641107559,
+      "minimum_lidar_min": 0.3053911328315735,
+      "steps_max": 111,
+      "steps_mean": 95.5,
+      "steps_median": 95.5,
+      "success": 4,
+      "timeout": 0
+    },
+    "3": {
+      "collision": 0,
+      "episodes": 4,
+      "minimum_lidar_mean": 0.3196069896221161,
+      "minimum_lidar_min": 0.3098578453063965,
+      "steps_max": 105,
+      "steps_mean": 98.25,
+      "steps_median": 98.0,
+      "success": 4,
+      "timeout": 0
+    },
+    "4": {
+      "collision": 0,
+      "episodes": 4,
+      "minimum_lidar_mean": 0.3032565638422966,
+      "minimum_lidar_min": 0.2881889343261719,
+      "steps_max": 137,
+      "steps_mean": 125.5,
+      "steps_median": 125.5,
+      "success": 4,
+      "timeout": 0
+    },
+    "5": {
+      "collision": 0,
+      "episodes": 4,
+      "minimum_lidar_mean": 0.31790337711572647,
+      "minimum_lidar_min": 0.29839473962783813,
+      "steps_max": 149,
+      "steps_mean": 129.5,
+      "steps_median": 129.5,
+      "success": 4,
+      "timeout": 0
+    }
+  },
+  "overall": {
+    "collision": 0,
+    "episodes": 20,
+    "minimum_lidar_mean": 0.32010477036237717,
+    "minimum_lidar_min": 0.2881889343261719,
+    "steps_max": 149,
+    "steps_mean": 103.35,
+    "steps_median": 107.5,
+    "success": 20,
+    "timeout": 0
+  },
+  "permanent_ood_accessed": false,
+  "source_dirs": [
+    "results/front_corridor_acceptance_seed8042724",
+    "results/four_five_pillar_acceptance_seed9050405"
+  ],
+  "training": false
+}

@@ -1,0 +1,99 @@
+{
+  "actor_digest": "4fcf2b4b6f822dc6cc0bea94bc07168ad3b2fd38c170efe3f9a9d0107f0ecbc1",
+  "best_epoch": 400,
+  "best_validation_mse": 0.06468585133552551,
+  "checkpoint": "/root/catkin_ws/src/project_ppo/experiments/v8_paired_success_anchor_seed8042702/runs/v8_scratch_symmetric_bc_seed8042711/actor_bc_best.pth",
+  "epochs": 400,
+  "exact_mirror_architecture": true,
+  "history": [
+    {
+      "epoch": 1,
+      "train_mse": 0.5383464694023132,
+      "validation_mse": 0.4725853502750397
+    },
+    {
+      "epoch": 40,
+      "train_mse": 0.07839297503232956,
+      "validation_mse": 0.07796123623847961
+    },
+    {
+      "epoch": 80,
+      "train_mse": 0.07318124175071716,
+      "validation_mse": 0.0778353288769722
+    },
+    {
+      "epoch": 120,
+      "train_mse": 0.07160221040248871,
+      "validation_mse": 0.07698708027601242
+    },
+    {
+      "epoch": 160,
+      "train_mse": 0.06784550845623016,
+      "validation_mse": 0.07168208062648773
+    },
+    {
+      "epoch": 200,
+      "train_mse": 0.06358323246240616,
+      "validation_mse": 0.06656546145677567
+    },
+    {
+      "epoch": 240,
+      "train_mse": 0.06199735030531883,
+      "validation_mse": 0.06543225795030594
+    },
+    {
+      "epoch": 280,
+      "train_mse": 0.061237603425979614,
+      "validation_mse": 0.06533566862344742
+    },
+    {
+      "epoch": 320,
+      "train_mse": 0.0606888122856617,
+      "validation_mse": 0.06520608067512512
+    },
+    {
+      "epoch": 360,
+      "train_mse": 0.06018523499369621,
+      "validation_mse": 0.06495584547519684
+    },
+    {
+      "epoch": 400,
+      "train_mse": 0.059674348682165146,
+      "validation_mse": 0.06468585133552551
+    }
+  ],
+  "initial_validation_mse": 0.5578426122665405,
+  "initialization": "random",
+  "permanent_ood_accessed": false,
+  "ppo_started": false,
+  "seed": 8042711,
+  "train_samples": 4066,
+  "v5_used": false,
+  "validation_pairs": [
+    [
+      1,
+      6
+    ],
+    [
+      1,
+      7
+    ],
+    [
+      2,
+      6
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      3,
+      7
+    ]
+  ],
+  "validation_samples": 1551
+}

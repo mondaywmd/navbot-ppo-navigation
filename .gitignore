@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+.tools/
+
+# ROS / Catkin
+build/
+devel/
+install/
+log/
+logs/
+*.bag
+
+# Training artifacts
+*.pth
+*.pt
+*.ckpt
+events.out.tfevents.*
+wandb/
+
+# Media and captures
+*.mp4
+*.avi
+*.mov
+
+# Local/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Ad-hoc code backups retained in the private working archive
+*.bak
+*.before_*
+*.broken_*
+*.goalbounds_backup

@@ -1,0 +1,488 @@
+{
+  "pair_count": 24,
+  "scene_count": 48,
+  "scenes": [
+    {
+      "name": "pair_01_positive",
+      "pair": 1,
+      "pillar_x": 0.902882,
+      "pillar_y": 0.228848,
+      "robot_yaw_deg": 3.086796,
+      "side": "positive",
+      "target_x": 2.0,
+      "target_y": 0.281981
+    },
+    {
+      "name": "pair_01_negative",
+      "pair": 1,
+      "pillar_x": 0.902882,
+      "pillar_y": -0.228848,
+      "robot_yaw_deg": -3.086796,
+      "side": "negative",
+      "target_x": 2.0,
+      "target_y": -0.281981
+    },
+    {
+      "name": "pair_02_positive",
+      "pair": 2,
+      "pillar_x": 0.858988,
+      "pillar_y": 0.13608,
+      "robot_yaw_deg": 5.937138,
+      "side": "positive",
+      "target_x": 2.0,
+      "target_y": 0.344527
+    },
+    {
+      "name": "pair_02_negative",
+      "pair": 2,
+      "pillar_x": 0.858988,
+      "pillar_y": -0.13608,
+      "robot_yaw_deg": -5.937138,
+      "side": "negative",
+      "target_x": 2.0,
+      "target_y": -0.344527
+    },
+    {
+      "name": "pair_03_positive",
+      "pair": 3,
+      "pillar_x": 1.176812,
+      "pillar_y": 0.250297,
+      "robot_yaw_deg": 2.681591,
+      "side": "positive",
+      "target_x": 2.0,
+      "target_y": 0.202455
+    },
+    {
+      "name": "pair_03_negative",
+      "pair": 3,
+      "pillar_x": 1.176812,
+      "pillar_y": -0.250297,
+      "robot_yaw_deg": -2.681591,
+      "side": "negative",
+      "target_x": 2.0,
+      "target_y": -0.202455
+    },
+    {
+      "name": "pair_04_positive",
+      "pair": 4,
+      "pillar_x": 0.774637,
+      "pillar_y": 0.258779,
+      "robot_yaw_deg": 5.961433,
+      "side": "positive",
+      "target_x": 2.0,
+      "target_y": 0.206788
+    },
+    {
+      "name": "pair_04_negative",
+      "pair": 4,
+      "pillar_x": 0.774637,
+      "pillar_y": -0.258779,
+      "robot_yaw_deg": -5.961433,
+      "side": "negative",
+      "target_x": 2.0,
+      "target_y": -0.206788
+    },
+    {
+      "name": "pair_05_positive",
+      "pair": 5,
+      "pillar_x": 0.821541,
+      "pillar_y": 0.294279,
+      "robot_yaw_deg": 3.769375,
+      "side": "positive",
+      "target_x": 2.0,
+      "target_y": 0.217388
+    },
+    {
+      "name": "pair_05_negative",
+      "pair": 5,
+      "pillar_x": 0.821541,
+      "pillar_y": -0.294279,
+      "robot_yaw_deg": -3.769375,
+      "side": "negative",
+      "target_x": 2.0,
+      "target_y": -0.217388
+    },
+    {
+      "name": "pair_06_positive",
+      "pair": 6,
+      "pillar_x": 1.096434,
+      "pillar_y": 0.207681,
+      "robot_yaw_deg": 1.987924,
+      "side": "positive",
+      "target_x": 2.0,
+      "target_y": 0.129841
+    },
+    {
+      "name": "pair_06_negative",
+      "pair": 6,
+      "pillar_x": 1.096434,
+      "pillar_y": -0.207681,
+      "robot_yaw_deg": -1.987924,
+      "side": "negative",
+      "target_x": 2.0,
+      "target_y": -0.129841
+    },
+    {
+      "name": "pair_07_positive",
+      "pair": 7,
+      "pillar_x": 0.763751,
+      "pillar_y": 0.210827,
+      "robot_yaw_deg": 5.713935,
+      "side": "positive",
+      "target_x": 2.0,
+      "target_y": 0.254066
+    },
+    {
+      "name": "pair_07_negative",
+      "pair": 7,
+      "pillar_x": 0.763751,
+      "pillar_y": -0.210827,
+      "robot_yaw_deg": -5.713935,
+      "side": "negative",
+      "target_x": 2.0,
+      "target_y": -0.254066
+    },
+    {
+      "name": "pair_08_positive",
+      "pair": 8,
+      "pillar_x": 1.102812,
+      "pillar_y": 0.245161,
+      "robot_yaw_deg": 7.709431,
+      "side": "positive",
+      "target_x": 2.0,
+      "target_y": 0.136053
+    },
+    {
+      "name": "pair_08_negative",
+      "pair": 8,
+      "pillar_x": 1.102812,
+      "pillar_y": -0.245161,
+      "robot_yaw_deg": -7.709431,
+      "side": "negative",
+      "target_x": 2.0,
+      "target_y": -0.136053
+    },
+    {
+      "name": "pair_09_positive",
+      "pair": 9,
+      "pillar_x": 0.766451,
+      "pillar_y": 0.210726,
+      "robot_yaw_deg": 8.880073,
+      "side": "positive",
+      "target_x": 2.0,
+      "target_y": 0.314445
+    },
+    {
+      "name": "pair_09_negative",
+      "pair": 9,
+      "pillar_x": 0.766451,
+      "pillar_y": -0.210726,
+      "robot_yaw_deg": -8.880073,
+      "side": "negative",
+      "target_x": 2.0,
+      "target_y": -0.314445
+    },
+    {
+      "name": "pair_10_positive",
+      "pair": 10,
+      "pillar_x": 0.911307,
+      "pillar_y": 0.2482,
+      "robot_yaw_deg": 7.796631,
+      "side": "positive",
+      "target_x": 2.0,
+      "target_y": 0.250806
+    },
+    {
+      "name": "pair_10_negative",
+      "pair": 10,
+      "pillar_x": 0.911307,
+      "pillar_y": -0.2482,
+      "robot_yaw_deg": -7.796631,
+      "side": "negative",
+      "target_x": 2.0,
+      "target_y": -0.250806
+    },
+    {
+      "name": "pair_11_positive",
+      "pair": 11,
+      "pillar_x": 0.834272,
+      "pillar_y": 0.14845,
+      "robot_yaw_deg": 3.72163,
+      "side": "positive",
+      "target_x": 2.0,
+      "target_y": 0.145835
+    },
+    {
+      "name": "pair_11_negative",
+      "pair": 11,
+      "pillar_x": 0.834272,
+      "pillar_y": -0.14845,
+      "robot_yaw_deg": -3.72163,
+      "side": "negative",
+      "target_x": 2.0,
+      "target_y": -0.145835
+    },
+    {
+      "name": "pair_12_positive",
+      "pair": 12,
+      "pillar_x": 0.97747,
+      "pillar_y": 0.14477,
+      "robot_yaw_deg": 3.532418,
+      "side": "positive",
+      "target_x": 2.0,
+      "target_y": 0.296712
+    },
+    {
+      "name": "pair_12_negative",
+      "pair": 12,
+      "pillar_x": 0.97747,
+      "pillar_y": -0.14477,
+      "robot_yaw_deg": -3.532418,
+      "side": "negative",
+      "target_x": 2.0,
+      "target_y": -0.296712
+    },
+    {
+      "name": "pair_13_positive",
+      "pair": 13,
+      "pillar_x": 0.84772,
+      "pillar_y": 0.228911,
+      "robot_yaw_deg": 5.987605,
+      "side": "positive",
+      "target_x": 2.0,
+      "target_y": 0.144906
+    },
+    {
+      "name": "pair_13_negative",
+      "pair": 13,
+      "pillar_x": 0.84772,
+      "pillar_y": -0.228911,
+      "robot_yaw_deg": -5.987605,
+      "side": "negative",
+      "target_x": 2.0,
+      "target_y": -0.144906
+    },
+    {
+      "name": "pair_14_positive",
+      "pair": 14,
+      "pillar_x": 0.767084,
+      "pillar_y": 0.239755,
+      "robot_yaw_deg": 4.693666,
+      "side": "positive",
+      "target_x": 2.0,
+      "target_y": 0.352436
+    },
+    {
+      "name": "pair_14_negative",
+      "pair": 14,
+      "pillar_x": 0.767084,
+      "pillar_y": -0.239755,
+      "robot_yaw_deg": -4.693666,
+      "side": "negative",
+      "target_x": 2.0,
+      "target_y": -0.352436
+    },
+    {
+      "name": "pair_15_positive",
+      "pair": 15,
+      "pillar_x": 0.908855,
+      "pillar_y": 0.208841,
+      "robot_yaw_deg": 2.149188,
+      "side": "positive",
+      "target_x": 2.0,
+      "target_y": 0.183349
+    },
+    {
+      "name": "pair_15_negative",
+      "pair": 15,
+      "pillar_x": 0.908855,
+      "pillar_y": -0.208841,
+      "robot_yaw_deg": -2.149188,
+      "side": "negative",
+      "target_x": 2.0,
+      "target_y": -0.183349
+    },
+    {
+      "name": "pair_16_positive",
+      "pair": 16,
+      "pillar_x": 1.15436,
+      "pillar_y": 0.112997,
+      "robot_yaw_deg": 3.970726,
+      "side": "positive",
+      "target_x": 2.0,
+      "target_y": 0.287039
+    },
+    {
+      "name": "pair_16_negative",
+      "pair": 16,
+      "pillar_x": 1.15436,
+      "pillar_y": -0.112997,
+      "robot_yaw_deg": -3.970726,
+      "side": "negative",
+      "target_x": 2.0,
+      "target_y": -0.287039
+    },
+    {
+      "name": "pair_17_positive",
+      "pair": 17,
+      "pillar_x": 0.740266,
+      "pillar_y": 0.145023,
+      "robot_yaw_deg": 1.313392,
+      "side": "positive",
+      "target_x": 2.0,
+      "target_y": 0.258606
+    },
+    {
+      "name": "pair_17_negative",
+      "pair": 17,
+      "pillar_x": 0.740266,
+      "pillar_y": -0.145023,
+      "robot_yaw_deg": -1.313392,
+      "side": "negative",
+      "target_x": 2.0,
+      "target_y": -0.258606
+    },
+    {
+      "name": "pair_18_positive",
+      "pair": 18,
+      "pillar_x": 0.87185,
+      "pillar_y": 0.125968,
+      "robot_yaw_deg": 1.300869,
+      "side": "positive",
+      "target_x": 2.0,
+      "target_y": 0.081787
+    },
+    {
+      "name": "pair_18_negative",
+      "pair": 18,
+      "pillar_x": 0.87185,
+      "pillar_y": -0.125968,
+      "robot_yaw_deg": -1.300869,
+      "side": "negative",
+      "target_x": 2.0,
+      "target_y": -0.081787
+    },
+    {
+      "name": "pair_19_positive",
+      "pair": 19,
+      "pillar_x": 1.014691,
+      "pillar_y": 0.118573,
+      "robot_yaw_deg": 3.610614,
+      "side": "positive",
+      "target_x": 2.0,
+      "target_y": 0.25422
+    },
+    {
+      "name": "pair_19_negative",
+      "pair": 19,
+      "pillar_x": 1.014691,
+      "pillar_y": -0.118573,
+      "robot_yaw_deg": -3.610614,
+      "side": "negative",
+      "target_x": 2.0,
+      "target_y": -0.25422
+    },
+    {
+      "name": "pair_20_positive",
+      "pair": 20,
+      "pillar_x": 0.74761,
+      "pillar_y": 0.246508,
+      "robot_yaw_deg": 3.072364,
+      "side": "positive",
+      "target_x": 2.0,
+      "target_y": 0.340111
+    },
+    {
+      "name": "pair_20_negative",
+      "pair": 20,
+      "pillar_x": 0.74761,
+      "pillar_y": -0.246508,
+      "robot_yaw_deg": -3.072364,
+      "side": "negative",
+      "target_x": 2.0,
+      "target_y": -0.340111
+    },
+    {
+      "name": "pair_21_positive",
+      "pair": 21,
+      "pillar_x": 1.052126,
+      "pillar_y": 0.323915,
+      "robot_yaw_deg": 5.224103,
+      "side": "positive",
+      "target_x": 2.0,
+      "target_y": 0.276357
+    },
+    {
+      "name": "pair_21_negative",
+      "pair": 21,
+      "pillar_x": 1.052126,
+      "pillar_y": -0.323915,
+      "robot_yaw_deg": -5.224103,
+      "side": "negative",
+      "target_x": 2.0,
+      "target_y": -0.276357
+    },
+    {
+      "name": "pair_22_positive",
+      "pair": 22,
+      "pillar_x": 1.160469,
+      "pillar_y": 0.129745,
+      "robot_yaw_deg": 3.126763,
+      "side": "positive",
+      "target_x": 2.0,
+      "target_y": 0.159339
+    },
+    {
+      "name": "pair_22_negative",
+      "pair": 22,
+      "pillar_x": 1.160469,
+      "pillar_y": -0.129745,
+      "robot_yaw_deg": -3.126763,
+      "side": "negative",
+      "target_x": 2.0,
+      "target_y": -0.159339
+    },
+    {
+      "name": "pair_23_positive",
+      "pair": 23,
+      "pillar_x": 0.875849,
+      "pillar_y": 0.275602,
+      "robot_yaw_deg": 4.569036,
+      "side": "positive",
+      "target_x": 2.0,
+      "target_y": 0.170368
+    },
+    {
+      "name": "pair_23_negative",
+      "pair": 23,
+      "pillar_x": 0.875849,
+      "pillar_y": -0.275602,
+      "robot_yaw_deg": -4.569036,
+      "side": "negative",
+      "target_x": 2.0,
+      "target_y": -0.170368
+    },
+    {
+      "name": "pair_24_positive",
+      "pair": 24,
+      "pillar_x": 1.044276,
+      "pillar_y": 0.250074,
+      "robot_yaw_deg": 4.599479,
+      "side": "positive",
+      "target_x": 2.0,
+      "target_y": 0.23009
+    },
+    {
+      "name": "pair_24_negative",
+      "pair": 24,
+      "pillar_x": 1.044276,
+      "pillar_y": -0.250074,
+      "robot_yaw_deg": -4.599479,
+      "side": "negative",
+      "target_x": 2.0,
+      "target_y": -0.23009
+    }
+  ],
+  "seed": 7042604,
+  "training_started": false
+}

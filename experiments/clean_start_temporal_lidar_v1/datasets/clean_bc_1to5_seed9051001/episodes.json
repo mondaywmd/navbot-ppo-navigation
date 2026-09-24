@@ -1,0 +1,2193 @@
+[
+  {
+    "level": 1,
+    "minimum_lidar": 0.35751622915267944,
+    "pair_id": 0,
+    "scene": {
+      "generation_seed": 9051002,
+      "level": 1,
+      "name": "level1_00001",
+      "obstacles": [
+        {
+          "radius": 0.3492665991210222,
+          "x": 1.264118469160713,
+          "y": 0.06099211865341991
+        }
+      ],
+      "robot_yaw_deg": 6.607709035800934,
+      "target_x": 2.6687432098224106,
+      "target_y": 0.7326450078115547
+    },
+    "shield_reasons": {
+      "barrier_depart": 52,
+      "clear": 24,
+      "potential_release_clear": 1
+    },
+    "side": "base",
+    "steps": 78
+  },
+  {
+    "level": 1,
+    "minimum_lidar": 0.3462281823158264,
+    "pair_id": 0,
+    "scene": {
+      "generation_seed": 9051002,
+      "level": 1,
+      "name": "level1_00001_mirror",
+      "obstacles": [
+        {
+          "radius": 0.3492665991210222,
+          "x": 1.264118469160713,
+          "y": -0.06099211865341991
+        }
+      ],
+      "robot_yaw_deg": -6.607709035800934,
+      "target_x": 2.6687432098224106,
+      "target_y": -0.7326450078115547
+    },
+    "shield_reasons": {
+      "barrier_depart": 54,
+      "clear": 22,
+      "potential_release_clear": 1
+    },
+    "side": "mirror",
+    "steps": 78
+  },
+  {
+    "level": 1,
+    "minimum_lidar": 0.32605329155921936,
+    "pair_id": 1,
+    "scene": {
+      "generation_seed": 9051002,
+      "level": 1,
+      "name": "level1_00002",
+      "obstacles": [
+        {
+          "radius": 0.361100277430181,
+          "x": 1.1930758496122933,
+          "y": 0.11001680908653509
+        }
+      ],
+      "robot_yaw_deg": -12.023181383764216,
+      "target_x": 2.29961026592213,
+      "target_y": -0.06746388498984723
+    },
+    "shield_reasons": {
+      "barrier_depart": 59,
+      "clear": 10
+    },
+    "side": "base",
+    "steps": 70
+  },
+  {
+    "level": 1,
+    "minimum_lidar": 0.3294984996318817,
+    "pair_id": 1,
+    "scene": {
+      "generation_seed": 9051002,
+      "level": 1,
+      "name": "level1_00002_mirror",
+      "obstacles": [
+        {
+          "radius": 0.361100277430181,
+          "x": 1.1930758496122933,
+          "y": -0.11001680908653509
+        }
+      ],
+      "robot_yaw_deg": 12.023181383764216,
+      "target_x": 2.29961026592213,
+      "target_y": 0.06746388498984723
+    },
+    "shield_reasons": {
+      "barrier_depart": 60,
+      "clear": 9
+    },
+    "side": "mirror",
+    "steps": 70
+  },
+  {
+    "level": 1,
+    "minimum_lidar": 0.3427760601043701,
+    "pair_id": 2,
+    "scene": {
+      "generation_seed": 9051002,
+      "level": 1,
+      "name": "level1_00003",
+      "obstacles": [
+        {
+          "radius": 0.34858232601488226,
+          "x": 1.5459668280330572,
+          "y": -0.767611692092516
+        }
+      ],
+      "robot_yaw_deg": 6.779454146616324,
+      "target_x": 2.7993017149466115,
+      "target_y": -0.9616406226011619
+    },
+    "shield_reasons": {
+      "barrier_depart": 52,
+      "clear": 29,
+      "potential_release_clear": 1
+    },
+    "side": "base",
+    "steps": 83
+  },
+  {
+    "level": 1,
+    "minimum_lidar": 0.33184927701950073,
+    "pair_id": 2,
+    "scene": {
+      "generation_seed": 9051002,
+      "level": 1,
+      "name": "level1_00003_mirror",
+      "obstacles": [
+        {
+          "radius": 0.34858232601488226,
+          "x": 1.5459668280330572,
+          "y": 0.767611692092516
+        }
+      ],
+      "robot_yaw_deg": -6.779454146616324,
+      "target_x": 2.7993017149466115,
+      "target_y": 0.9616406226011619
+    },
+    "shield_reasons": {
+      "barrier_depart": 53,
+      "clear": 28,
+      "potential_release_clear": 1,
+      "predictive_stop": 1
+    },
+    "side": "mirror",
+    "steps": 84
+  },
+  {
+    "level": 1,
+    "minimum_lidar": 0.3238450884819031,
+    "pair_id": 3,
+    "scene": {
+      "generation_seed": 9051002,
+      "level": 1,
+      "name": "level1_00004",
+      "obstacles": [
+        {
+          "radius": 0.22966622559678848,
+          "x": 0.9055067776647152,
+          "y": -0.5293534774213049
+        }
+      ],
+      "robot_yaw_deg": -7.555015121534298,
+      "target_x": 1.8625161938126644,
+      "target_y": -0.8136272847687115
+    },
+    "shield_reasons": {
+      "barrier_depart": 50,
+      "clear": 9
+    },
+    "side": "base",
+    "steps": 60
+  },
+  {
+    "level": 1,
+    "minimum_lidar": 0.31595557928085327,
+    "pair_id": 3,
+    "scene": {
+      "generation_seed": 9051002,
+      "level": 1,
+      "name": "level1_00004_mirror",
+      "obstacles": [
+        {
+          "radius": 0.22966622559678848,
+          "x": 0.9055067776647152,
+          "y": 0.5293534774213049
+        }
+      ],
+      "robot_yaw_deg": 7.555015121534298,
+      "target_x": 1.8625161938126644,
+      "target_y": 0.8136272847687115
+    },
+    "shield_reasons": {
+      "barrier_depart": 51,
+      "clear": 9
+    },
+    "side": "mirror",
+    "steps": 61
+  },
+  {
+    "level": 1,
+    "minimum_lidar": 0.3214772045612335,
+    "pair_id": 4,
+    "scene": {
+      "generation_seed": 9051002,
+      "level": 1,
+      "name": "level1_00005",
+      "obstacles": [
+        {
+          "radius": 0.26223689586061966,
+          "x": 1.0903937106474988,
+          "y": 0.6573796142173025
+        }
+      ],
+      "robot_yaw_deg": 1.911584845065768,
+      "target_x": 2.2741222175946634,
+      "target_y": 0.7466314034826451
+    },
+    "shield_reasons": {
+      "barrier_depart": 47,
+      "clear": 17,
+      "potential_release_clear": 1
+    },
+    "side": "base",
+    "steps": 66
+  },
+  {
+    "level": 1,
+    "minimum_lidar": 0.33325186371803284,
+    "pair_id": 4,
+    "scene": {
+      "generation_seed": 9051002,
+      "level": 1,
+      "name": "level1_00005_mirror",
+      "obstacles": [
+        {
+          "radius": 0.26223689586061966,
+          "x": 1.0903937106474988,
+          "y": -0.6573796142173025
+        }
+      ],
+      "robot_yaw_deg": -1.911584845065768,
+      "target_x": 2.2741222175946634,
+      "target_y": -0.7466314034826451
+    },
+    "shield_reasons": {
+      "barrier_depart": 47,
+      "clear": 17,
+      "potential_release_clear": 1
+    },
+    "side": "mirror",
+    "steps": 66
+  },
+  {
+    "level": 1,
+    "minimum_lidar": 0.3244698643684387,
+    "pair_id": 5,
+    "scene": {
+      "generation_seed": 9051002,
+      "level": 1,
+      "name": "level1_00006",
+      "obstacles": [
+        {
+          "radius": 0.21325770480442016,
+          "x": 0.7885016999751583,
+          "y": 0.15298687453908966
+        }
+      ],
+      "robot_yaw_deg": 14.447931510646189,
+      "target_x": 1.7666804278892212,
+      "target_y": -0.21611227378999853
+    },
+    "shield_reasons": {
+      "barrier_depart": 51,
+      "clear": 2
+    },
+    "side": "base",
+    "steps": 54
+  },
+  {
+    "level": 1,
+    "minimum_lidar": 0.32443076372146606,
+    "pair_id": 5,
+    "scene": {
+      "generation_seed": 9051002,
+      "level": 1,
+      "name": "level1_00006_mirror",
+      "obstacles": [
+        {
+          "radius": 0.21325770480442016,
+          "x": 0.7885016999751583,
+          "y": -0.15298687453908966
+        }
+      ],
+      "robot_yaw_deg": -14.447931510646189,
+      "target_x": 1.7666804278892212,
+      "target_y": 0.21611227378999853
+    },
+    "shield_reasons": {
+      "barrier_depart": 52,
+      "clear": 1,
+      "potential_release_clear": 1
+    },
+    "side": "mirror",
+    "steps": 55
+  },
+  {
+    "level": 2,
+    "minimum_lidar": 0.3370087742805481,
+    "pair_id": 6,
+    "scene": {
+      "generation_seed": 9051003,
+      "level": 2,
+      "name": "level2_00001",
+      "obstacles": [
+        {
+          "radius": 0.23519604566952595,
+          "x": 0.8969215132547107,
+          "y": -0.30383218999674116
+        },
+        {
+          "radius": 0.1836188633307589,
+          "x": 1.4020668734878363,
+          "y": 0.7239556046258218
+        }
+      ],
+      "robot_yaw_deg": 5.2232574056085035,
+      "target_x": 2.0690065697400675,
+      "target_y": 1.1839669189009092
+    },
+    "shield_reasons": {
+      "barrier_depart": 61,
+      "clear": 11
+    },
+    "side": "base",
+    "steps": 73
+  },
+  {
+    "level": 2,
+    "minimum_lidar": 0.3373093903064728,
+    "pair_id": 6,
+    "scene": {
+      "generation_seed": 9051003,
+      "level": 2,
+      "name": "level2_00001_mirror",
+      "obstacles": [
+        {
+          "radius": 0.23519604566952595,
+          "x": 0.8969215132547107,
+          "y": 0.30383218999674116
+        },
+        {
+          "radius": 0.1836188633307589,
+          "x": 1.4020668734878363,
+          "y": -0.7239556046258218
+        }
+      ],
+      "robot_yaw_deg": -5.2232574056085035,
+      "target_x": 2.0690065697400675,
+      "target_y": -1.1839669189009092
+    },
+    "shield_reasons": {
+      "barrier_depart": 43,
+      "clear": 27
+    },
+    "side": "mirror",
+    "steps": 71
+  },
+  {
+    "level": 2,
+    "minimum_lidar": 0.3050856590270996,
+    "pair_id": 7,
+    "scene": {
+      "generation_seed": 9051003,
+      "level": 2,
+      "name": "level2_00002",
+      "obstacles": [
+        {
+          "radius": 0.21291256818305382,
+          "x": 0.7700909379235787,
+          "y": 0.1606147398485464
+        },
+        {
+          "radius": 0.27461414569157266,
+          "x": 1.2666407916817513,
+          "y": 0.8767218974046522
+        }
+      ],
+      "robot_yaw_deg": -1.3406027847251973,
+      "target_x": 2.0733346641519597,
+      "target_y": 0.19153422300733003
+    },
+    "shield_reasons": {
+      "barrier_depart": 64
+    },
+    "side": "base",
+    "steps": 65
+  },
+  {
+    "level": 2,
+    "minimum_lidar": 0.3064673840999603,
+    "pair_id": 7,
+    "scene": {
+      "generation_seed": 9051003,
+      "level": 2,
+      "name": "level2_00002_mirror",
+      "obstacles": [
+        {
+          "radius": 0.21291256818305382,
+          "x": 0.7700909379235787,
+          "y": -0.1606147398485464
+        },
+        {
+          "radius": 0.27461414569157266,
+          "x": 1.2666407916817513,
+          "y": -0.8767218974046522
+        }
+      ],
+      "robot_yaw_deg": 1.3406027847251973,
+      "target_x": 2.0733346641519597,
+      "target_y": -0.19153422300733003
+    },
+    "shield_reasons": {
+      "barrier_depart": 64
+    },
+    "side": "mirror",
+    "steps": 65
+  },
+  {
+    "level": 2,
+    "minimum_lidar": 0.34227678179740906,
+    "pair_id": 8,
+    "scene": {
+      "generation_seed": 9051003,
+      "level": 2,
+      "name": "level2_00003",
+      "obstacles": [
+        {
+          "radius": 0.2412978475179505,
+          "x": 1.1354458815179789,
+          "y": -0.216852949738246
+        },
+        {
+          "radius": 0.26172899452614684,
+          "x": 1.409620671494085,
+          "y": -1.4484792933401867
+        }
+      ],
+      "robot_yaw_deg": 12.914806886905154,
+      "target_x": 2.807213657877336,
+      "target_y": -1.1233065610253403
+    },
+    "shield_reasons": {
+      "barrier_depart": 57,
+      "clear": 34,
+      "potential_release_clear": 1
+    },
+    "side": "base",
+    "steps": 93
+  },
+  {
+    "level": 2,
+    "minimum_lidar": 0.33405953645706177,
+    "pair_id": 8,
+    "scene": {
+      "generation_seed": 9051003,
+      "level": 2,
+      "name": "level2_00003_mirror",
+      "obstacles": [
+        {
+          "radius": 0.2412978475179505,
+          "x": 1.1354458815179789,
+          "y": 0.216852949738246
+        },
+        {
+          "radius": 0.26172899452614684,
+          "x": 1.409620671494085,
+          "y": 1.4484792933401867
+        }
+      ],
+      "robot_yaw_deg": -12.914806886905154,
+      "target_x": 2.807213657877336,
+      "target_y": 1.1233065610253403
+    },
+    "shield_reasons": {
+      "barrier_depart": 58,
+      "clear": 34,
+      "potential_release_clear": 1
+    },
+    "side": "mirror",
+    "steps": 94
+  },
+  {
+    "level": 2,
+    "minimum_lidar": 0.32423830032348633,
+    "pair_id": 9,
+    "scene": {
+      "generation_seed": 9051003,
+      "level": 2,
+      "name": "level2_00004",
+      "obstacles": [
+        {
+          "radius": 0.38332268790068047,
+          "x": 1.0724022543240603,
+          "y": 0.383700407372525
+        },
+        {
+          "radius": 0.3080812503337792,
+          "x": 1.7750525937115242,
+          "y": -0.7410571927555576
+        }
+      ],
+      "robot_yaw_deg": 12.55553929612648,
+      "target_x": 2.7483970778713327,
+      "target_y": -0.8238066697864417
+    },
+    "shield_reasons": {
+      "barrier_depart": 58,
+      "clear": 37
+    },
+    "side": "base",
+    "steps": 96
+  },
+  {
+    "level": 2,
+    "minimum_lidar": 0.32462355494499207,
+    "pair_id": 9,
+    "scene": {
+      "generation_seed": 9051003,
+      "level": 2,
+      "name": "level2_00004_mirror",
+      "obstacles": [
+        {
+          "radius": 0.38332268790068047,
+          "x": 1.0724022543240603,
+          "y": -0.383700407372525
+        },
+        {
+          "radius": 0.3080812503337792,
+          "x": 1.7750525937115242,
+          "y": 0.7410571927555576
+        }
+      ],
+      "robot_yaw_deg": -12.55553929612648,
+      "target_x": 2.7483970778713327,
+      "target_y": 0.8238066697864417
+    },
+    "shield_reasons": {
+      "barrier_depart": 57,
+      "clear": 36
+    },
+    "side": "mirror",
+    "steps": 94
+  },
+  {
+    "level": 2,
+    "minimum_lidar": 0.3092288374900818,
+    "pair_id": 10,
+    "scene": {
+      "generation_seed": 9051003,
+      "level": 2,
+      "name": "level2_00005",
+      "obstacles": [
+        {
+          "radius": 0.3117086753689212,
+          "x": 0.9654243320043291,
+          "y": 0.6239793386777663
+        },
+        {
+          "radius": 0.19555103843100646,
+          "x": 1.3849550672592665,
+          "y": -0.4967173487444794
+        }
+      ],
+      "robot_yaw_deg": -4.930140939700843,
+      "target_x": 2.2461560212605987,
+      "target_y": -0.4405097947746056
+    },
+    "shield_reasons": {
+      "barrier_depart": 51,
+      "clear": 27
+    },
+    "side": "base",
+    "steps": 79
+  },
+  {
+    "level": 2,
+    "minimum_lidar": 0.3091728687286377,
+    "pair_id": 10,
+    "scene": {
+      "generation_seed": 9051003,
+      "level": 2,
+      "name": "level2_00005_mirror",
+      "obstacles": [
+        {
+          "radius": 0.3117086753689212,
+          "x": 0.9654243320043291,
+          "y": -0.6239793386777663
+        },
+        {
+          "radius": 0.19555103843100646,
+          "x": 1.3849550672592665,
+          "y": 0.4967173487444794
+        }
+      ],
+      "robot_yaw_deg": 4.930140939700843,
+      "target_x": 2.2461560212605987,
+      "target_y": 0.4405097947746056
+    },
+    "shield_reasons": {
+      "barrier_depart": 51,
+      "clear": 25
+    },
+    "side": "mirror",
+    "steps": 77
+  },
+  {
+    "level": 2,
+    "minimum_lidar": 0.319206565618515,
+    "pair_id": 11,
+    "scene": {
+      "generation_seed": 9051003,
+      "level": 2,
+      "name": "level2_00006",
+      "obstacles": [
+        {
+          "radius": 0.4025984756492257,
+          "x": 1.4897144635881923,
+          "y": -0.057911175159716444
+        },
+        {
+          "radius": 0.42866557381445236,
+          "x": 1.8235912927452576,
+          "y": 1.1554091183198754
+        }
+      ],
+      "robot_yaw_deg": 2.2285909939932402,
+      "target_x": 3.1607958677481163,
+      "target_y": 1.1905178653117499
+    },
+    "shield_reasons": {
+      "barrier_depart": 78,
+      "clear": 37,
+      "potential_release_clear": 1
+    },
+    "side": "base",
+    "steps": 117
+  },
+  {
+    "level": 2,
+    "minimum_lidar": 0.31990623474121094,
+    "pair_id": 11,
+    "scene": {
+      "generation_seed": 9051003,
+      "level": 2,
+      "name": "level2_00006_mirror",
+      "obstacles": [
+        {
+          "radius": 0.4025984756492257,
+          "x": 1.4897144635881923,
+          "y": 0.057911175159716444
+        },
+        {
+          "radius": 0.42866557381445236,
+          "x": 1.8235912927452576,
+          "y": -1.1554091183198754
+        }
+      ],
+      "robot_yaw_deg": -2.2285909939932402,
+      "target_x": 3.1607958677481163,
+      "target_y": -1.1905178653117499
+    },
+    "shield_reasons": {
+      "barrier_depart": 78,
+      "clear": 37,
+      "potential_release_clear": 1
+    },
+    "side": "mirror",
+    "steps": 117
+  },
+  {
+    "level": 3,
+    "minimum_lidar": 0.3380223512649536,
+    "pair_id": 12,
+    "scene": {
+      "generation_seed": 9051004,
+      "level": 3,
+      "name": "level3_00001",
+      "obstacles": [
+        {
+          "radius": 0.22468513439141818,
+          "x": 0.9827456499553006,
+          "y": 0.27321477552580653
+        },
+        {
+          "radius": 0.2818969814043571,
+          "x": 1.7480909765633272,
+          "y": 0.039525184313743605
+        },
+        {
+          "radius": 0.26753284550846423,
+          "x": 2.6180154609286106,
+          "y": 0.5688351736033297
+        }
+      ],
+      "robot_yaw_deg": 13.202564669312142,
+      "target_x": 3.145126474821064,
+      "target_y": -0.13772656509669756
+    },
+    "shield_reasons": {
+      "barrier_depart": 82,
+      "clear": 8
+    },
+    "side": "base",
+    "steps": 91
+  },
+  {
+    "level": 3,
+    "minimum_lidar": 0.3406822383403778,
+    "pair_id": 12,
+    "scene": {
+      "generation_seed": 9051004,
+      "level": 3,
+      "name": "level3_00001_mirror",
+      "obstacles": [
+        {
+          "radius": 0.22468513439141818,
+          "x": 0.9827456499553006,
+          "y": -0.27321477552580653
+        },
+        {
+          "radius": 0.2818969814043571,
+          "x": 1.7480909765633272,
+          "y": -0.039525184313743605
+        },
+        {
+          "radius": 0.26753284550846423,
+          "x": 2.6180154609286106,
+          "y": -0.5688351736033297
+        }
+      ],
+      "robot_yaw_deg": -13.202564669312142,
+      "target_x": 3.145126474821064,
+      "target_y": 0.13772656509669756
+    },
+    "shield_reasons": {
+      "barrier_depart": 82,
+      "clear": 9
+    },
+    "side": "mirror",
+    "steps": 92
+  },
+  {
+    "level": 3,
+    "minimum_lidar": 0.29039475321769714,
+    "pair_id": 13,
+    "scene": {
+      "generation_seed": 9051004,
+      "level": 3,
+      "name": "level3_00002",
+      "obstacles": [
+        {
+          "radius": 0.20878609756285008,
+          "x": 0.9549550556781917,
+          "y": 0.3129015382808102
+        },
+        {
+          "radius": 0.4289725662590699,
+          "x": 1.7129971632948973,
+          "y": 0.990207838108245
+        },
+        {
+          "radius": 0.23374063672821904,
+          "x": 2.2758901866129517,
+          "y": 0.19563062343530324
+        }
+      ],
+      "robot_yaw_deg": 0.32112580322248796,
+      "target_x": 3.2269968196834364,
+      "target_y": 0.5823799004416224
+    },
+    "shield_reasons": {
+      "barrier_depart": 92,
+      "clear": 9
+    },
+    "side": "base",
+    "steps": 102
+  },
+  {
+    "level": 3,
+    "minimum_lidar": 0.29371851682662964,
+    "pair_id": 13,
+    "scene": {
+      "generation_seed": 9051004,
+      "level": 3,
+      "name": "level3_00002_mirror",
+      "obstacles": [
+        {
+          "radius": 0.20878609756285008,
+          "x": 0.9549550556781917,
+          "y": -0.3129015382808102
+        },
+        {
+          "radius": 0.4289725662590699,
+          "x": 1.7129971632948973,
+          "y": -0.990207838108245
+        },
+        {
+          "radius": 0.23374063672821904,
+          "x": 2.2758901866129517,
+          "y": -0.19563062343530324
+        }
+      ],
+      "robot_yaw_deg": -0.32112580322248796,
+      "target_x": 3.2269968196834364,
+      "target_y": -0.5823799004416224
+    },
+    "shield_reasons": {
+      "barrier_depart": 93,
+      "clear": 8
+    },
+    "side": "mirror",
+    "steps": 102
+  },
+  {
+    "level": 3,
+    "minimum_lidar": 0.365953654050827,
+    "pair_id": 14,
+    "scene": {
+      "generation_seed": 9051004,
+      "level": 3,
+      "name": "level3_00003",
+      "obstacles": [
+        {
+          "radius": 0.2294288811802977,
+          "x": 0.38563502661054194,
+          "y": -0.9761726192248209
+        },
+        {
+          "radius": 0.33351361272898333,
+          "x": 1.5185489880522725,
+          "y": 0.5172273991502716
+        },
+        {
+          "radius": 0.22614521510031746,
+          "x": 2.1312233562067378,
+          "y": -0.28560708558096787
+        }
+      ],
+      "robot_yaw_deg": 4.642742928937896,
+      "target_x": 2.927317446622249,
+      "target_y": -0.759146455888501
+    },
+    "shield_reasons": {
+      "barrier_depart": 71,
+      "clear": 14
+    },
+    "side": "base",
+    "steps": 86
+  },
+  {
+    "level": 3,
+    "minimum_lidar": 0.36622586846351624,
+    "pair_id": 14,
+    "scene": {
+      "generation_seed": 9051004,
+      "level": 3,
+      "name": "level3_00003_mirror",
+      "obstacles": [
+        {
+          "radius": 0.2294288811802977,
+          "x": 0.38563502661054194,
+          "y": 0.9761726192248209
+        },
+        {
+          "radius": 0.33351361272898333,
+          "x": 1.5185489880522725,
+          "y": -0.5172273991502716
+        },
+        {
+          "radius": 0.22614521510031746,
+          "x": 2.1312233562067378,
+          "y": 0.28560708558096787
+        }
+      ],
+      "robot_yaw_deg": -4.642742928937896,
+      "target_x": 2.927317446622249,
+      "target_y": 0.759146455888501
+    },
+    "shield_reasons": {
+      "barrier_depart": 71,
+      "clear": 13
+    },
+    "side": "mirror",
+    "steps": 85
+  },
+  {
+    "level": 3,
+    "minimum_lidar": 0.3607471287250519,
+    "pair_id": 15,
+    "scene": {
+      "generation_seed": 9051004,
+      "level": 3,
+      "name": "level3_00004",
+      "obstacles": [
+        {
+          "radius": 0.30111692586778344,
+          "x": 0.6641128591396384,
+          "y": 1.007397705073674
+        },
+        {
+          "radius": 0.3041685149817992,
+          "x": 1.4558080313990676,
+          "y": 0.6081931574533321
+        },
+        {
+          "radius": 0.31899492891586245,
+          "x": 2.389796180520992,
+          "y": 1.1926352246013994
+        }
+      ],
+      "robot_yaw_deg": 10.147125037618814,
+      "target_x": 3.127637024932417,
+      "target_y": 0.49522251768934766
+    },
+    "shield_reasons": {
+      "barrier_depart": 63,
+      "clear": 22
+    },
+    "side": "base",
+    "steps": 86
+  },
+  {
+    "level": 3,
+    "minimum_lidar": 0.360932856798172,
+    "pair_id": 15,
+    "scene": {
+      "generation_seed": 9051004,
+      "level": 3,
+      "name": "level3_00004_mirror",
+      "obstacles": [
+        {
+          "radius": 0.30111692586778344,
+          "x": 0.6641128591396384,
+          "y": -1.007397705073674
+        },
+        {
+          "radius": 0.3041685149817992,
+          "x": 1.4558080313990676,
+          "y": -0.6081931574533321
+        },
+        {
+          "radius": 0.31899492891586245,
+          "x": 2.389796180520992,
+          "y": -1.1926352246013994
+        }
+      ],
+      "robot_yaw_deg": -10.147125037618814,
+      "target_x": 3.127637024932417,
+      "target_y": -0.49522251768934766
+    },
+    "shield_reasons": {
+      "barrier_depart": 64,
+      "clear": 21
+    },
+    "side": "mirror",
+    "steps": 86
+  },
+  {
+    "level": 3,
+    "minimum_lidar": 0.3476392328739166,
+    "pair_id": 16,
+    "scene": {
+      "generation_seed": 9051004,
+      "level": 3,
+      "name": "level3_00005",
+      "obstacles": [
+        {
+          "radius": 0.2135566150854562,
+          "x": 0.8874160068339642,
+          "y": 0.19254743744245773
+        },
+        {
+          "radius": 0.33265408032970145,
+          "x": 1.5854343550060828,
+          "y": -0.479148789446103
+        },
+        {
+          "radius": 0.42153294917712725,
+          "x": 2.1231247728465643,
+          "y": 0.6320682795204164
+        }
+      ],
+      "robot_yaw_deg": -4.963178578786984,
+      "target_x": 2.796414418993604,
+      "target_y": -0.24260836546314923
+    },
+    "shield_reasons": {
+      "barrier_depart": 89,
+      "clear": 9,
+      "potential_release_clear": 1
+    },
+    "side": "base",
+    "steps": 100
+  },
+  {
+    "level": 3,
+    "minimum_lidar": 0.34527161717414856,
+    "pair_id": 16,
+    "scene": {
+      "generation_seed": 9051004,
+      "level": 3,
+      "name": "level3_00005_mirror",
+      "obstacles": [
+        {
+          "radius": 0.2135566150854562,
+          "x": 0.8874160068339642,
+          "y": -0.19254743744245773
+        },
+        {
+          "radius": 0.33265408032970145,
+          "x": 1.5854343550060828,
+          "y": 0.479148789446103
+        },
+        {
+          "radius": 0.42153294917712725,
+          "x": 2.1231247728465643,
+          "y": -0.6320682795204164
+        }
+      ],
+      "robot_yaw_deg": 4.963178578786984,
+      "target_x": 2.796414418993604,
+      "target_y": 0.24260836546314923
+    },
+    "shield_reasons": {
+      "barrier_depart": 87,
+      "clear": 10,
+      "potential_release_clear": 1
+    },
+    "side": "mirror",
+    "steps": 99
+  },
+  {
+    "level": 3,
+    "minimum_lidar": 0.28239813446998596,
+    "pair_id": 17,
+    "scene": {
+      "generation_seed": 9051004,
+      "level": 3,
+      "name": "level3_00006",
+      "obstacles": [
+        {
+          "radius": 0.20981717520608406,
+          "x": 1.0473236820161116,
+          "y": 0.7639235971835703
+        },
+        {
+          "radius": 0.3250320539813891,
+          "x": 1.4872206178434975,
+          "y": -0.08592997104031341
+        },
+        {
+          "radius": 0.2208020257189115,
+          "x": 2.330260988114882,
+          "y": -0.9984167406699255
+        }
+      ],
+      "robot_yaw_deg": -11.511558228422318,
+      "target_x": 2.973570321303817,
+      "target_y": -0.25500244073964207
+    },
+    "shield_reasons": {
+      "barrier_depart": 86,
+      "clear": 30,
+      "potential_release_clear": 1
+    },
+    "side": "base",
+    "steps": 118
+  },
+  {
+    "level": 3,
+    "minimum_lidar": 0.28473061323165894,
+    "pair_id": 17,
+    "scene": {
+      "generation_seed": 9051004,
+      "level": 3,
+      "name": "level3_00006_mirror",
+      "obstacles": [
+        {
+          "radius": 0.20981717520608406,
+          "x": 1.0473236820161116,
+          "y": -0.7639235971835703
+        },
+        {
+          "radius": 0.3250320539813891,
+          "x": 1.4872206178434975,
+          "y": 0.08592997104031341
+        },
+        {
+          "radius": 0.2208020257189115,
+          "x": 2.330260988114882,
+          "y": 0.9984167406699255
+        }
+      ],
+      "robot_yaw_deg": 11.511558228422318,
+      "target_x": 2.973570321303817,
+      "target_y": 0.25500244073964207
+    },
+    "shield_reasons": {
+      "barrier_depart": 88,
+      "clear": 29,
+      "potential_release_clear": 1
+    },
+    "side": "mirror",
+    "steps": 119
+  },
+  {
+    "level": 4,
+    "minimum_lidar": 0.2862064838409424,
+    "pair_id": 18,
+    "scene": {
+      "generation_seed": 9051005,
+      "level": 4,
+      "name": "level4_00001",
+      "obstacles": [
+        {
+          "radius": 0.27969974617416,
+          "x": 0.8863963213960174,
+          "y": 1.0583711905004152
+        },
+        {
+          "radius": 0.2926659708107925,
+          "x": 1.3761809898660684,
+          "y": 0.23581197532069845
+        },
+        {
+          "radius": 0.29223439179148175,
+          "x": 2.0226913443193237,
+          "y": -0.6423530807281863
+        },
+        {
+          "radius": 0.2198546934076342,
+          "x": 2.1447613798587937,
+          "y": -1.481708033900538
+        }
+      ],
+      "robot_yaw_deg": -12.273631744892903,
+      "target_x": 3.0631746091201735,
+      "target_y": -0.44228979058662987
+    },
+    "shield_reasons": {
+      "barrier_depart": 80,
+      "clear": 50,
+      "potential_release_clear": 1,
+      "predictive_stop": 2
+    },
+    "side": "base",
+    "steps": 134
+  },
+  {
+    "level": 4,
+    "minimum_lidar": 0.28353530168533325,
+    "pair_id": 18,
+    "scene": {
+      "generation_seed": 9051005,
+      "level": 4,
+      "name": "level4_00001_mirror",
+      "obstacles": [
+        {
+          "radius": 0.27969974617416,
+          "x": 0.8863963213960174,
+          "y": -1.0583711905004152
+        },
+        {
+          "radius": 0.2926659708107925,
+          "x": 1.3761809898660684,
+          "y": -0.23581197532069845
+        },
+        {
+          "radius": 0.29223439179148175,
+          "x": 2.0226913443193237,
+          "y": 0.6423530807281863
+        },
+        {
+          "radius": 0.2198546934076342,
+          "x": 2.1447613798587937,
+          "y": 1.481708033900538
+        }
+      ],
+      "robot_yaw_deg": 12.273631744892903,
+      "target_x": 3.0631746091201735,
+      "target_y": 0.44228979058662987
+    },
+    "shield_reasons": {
+      "barrier_depart": 79,
+      "clear": 51,
+      "predictive_stop": 1
+    },
+    "side": "mirror",
+    "steps": 132
+  },
+  {
+    "level": 4,
+    "minimum_lidar": 0.29628393054008484,
+    "pair_id": 19,
+    "scene": {
+      "generation_seed": 9051005,
+      "level": 4,
+      "name": "level4_00002",
+      "obstacles": [
+        {
+          "radius": 0.1889653950200193,
+          "x": 0.7947181053232714,
+          "y": 0.5405015221310496
+        },
+        {
+          "radius": 0.2762698221859444,
+          "x": 1.2248084764234064,
+          "y": -1.0631893425272538
+        },
+        {
+          "radius": 0.4061483155239373,
+          "x": 1.7725849385051744,
+          "y": 0.3163375139435688
+        },
+        {
+          "radius": 0.37423971547501395,
+          "x": 2.4903316211906126,
+          "y": -1.0605474719482766
+        }
+      ],
+      "robot_yaw_deg": 5.55055700403323,
+      "target_x": 2.8881303057454812,
+      "target_y": 0.022607561789404595
+    },
+    "shield_reasons": {
+      "barrier_depart": 102,
+      "clear": 11
+    },
+    "side": "base",
+    "steps": 114
+  },
+  {
+    "level": 4,
+    "minimum_lidar": 0.2956743538379669,
+    "pair_id": 19,
+    "scene": {
+      "generation_seed": 9051005,
+      "level": 4,
+      "name": "level4_00002_mirror",
+      "obstacles": [
+        {
+          "radius": 0.1889653950200193,
+          "x": 0.7947181053232714,
+          "y": -0.5405015221310496
+        },
+        {
+          "radius": 0.2762698221859444,
+          "x": 1.2248084764234064,
+          "y": 1.0631893425272538
+        },
+        {
+          "radius": 0.4061483155239373,
+          "x": 1.7725849385051744,
+          "y": -0.3163375139435688
+        },
+        {
+          "radius": 0.37423971547501395,
+          "x": 2.4903316211906126,
+          "y": 1.0605474719482766
+        }
+      ],
+      "robot_yaw_deg": -5.55055700403323,
+      "target_x": 2.8881303057454812,
+      "target_y": -0.022607561789404595
+    },
+    "shield_reasons": {
+      "barrier_depart": 104,
+      "clear": 10
+    },
+    "side": "mirror",
+    "steps": 115
+  },
+  {
+    "level": 4,
+    "minimum_lidar": 0.3333548605442047,
+    "pair_id": 20,
+    "scene": {
+      "generation_seed": 9051005,
+      "level": 4,
+      "name": "level4_00003",
+      "obstacles": [
+        {
+          "radius": 0.3017141537342255,
+          "x": 0.5916253613533774,
+          "y": -0.8486695577218185
+        },
+        {
+          "radius": 0.4073238112684455,
+          "x": 1.0256278713863638,
+          "y": 1.0368144087237916
+        },
+        {
+          "radius": 0.2753333613320901,
+          "x": 1.838506258832333,
+          "y": 0.25705747953121433
+        },
+        {
+          "radius": 0.2298283476714323,
+          "x": 2.461870851543916,
+          "y": 1.1477754719799487
+        }
+      ],
+      "robot_yaw_deg": -9.897569545595697,
+      "target_x": 3.2376634545168717,
+      "target_y": 0.3153350125888603
+    },
+    "shield_reasons": {
+      "barrier_depart": 80,
+      "clear": 12,
+      "potential_release_clear": 1,
+      "predictive_stop": 1
+    },
+    "side": "base",
+    "steps": 95
+  },
+  {
+    "level": 4,
+    "minimum_lidar": 0.32444626092910767,
+    "pair_id": 20,
+    "scene": {
+      "generation_seed": 9051005,
+      "level": 4,
+      "name": "level4_00003_mirror",
+      "obstacles": [
+        {
+          "radius": 0.3017141537342255,
+          "x": 0.5916253613533774,
+          "y": 0.8486695577218185
+        },
+        {
+          "radius": 0.4073238112684455,
+          "x": 1.0256278713863638,
+          "y": -1.0368144087237916
+        },
+        {
+          "radius": 0.2753333613320901,
+          "x": 1.838506258832333,
+          "y": -0.25705747953121433
+        },
+        {
+          "radius": 0.2298283476714323,
+          "x": 2.461870851543916,
+          "y": -1.1477754719799487
+        }
+      ],
+      "robot_yaw_deg": 9.897569545595697,
+      "target_x": 3.2376634545168717,
+      "target_y": -0.3153350125888603
+    },
+    "shield_reasons": {
+      "barrier_depart": 80,
+      "clear": 12,
+      "potential_release_clear": 1,
+      "predictive_stop": 1
+    },
+    "side": "mirror",
+    "steps": 95
+  },
+  {
+    "level": 4,
+    "minimum_lidar": 0.289010226726532,
+    "pair_id": 21,
+    "scene": {
+      "generation_seed": 9051005,
+      "level": 4,
+      "name": "level4_00004",
+      "obstacles": [
+        {
+          "radius": 0.22994584756899755,
+          "x": 0.27809337948996404,
+          "y": 0.7844016371399977
+        },
+        {
+          "radius": 0.30717319093614126,
+          "x": 1.1653371487390844,
+          "y": 0.16819206526508204
+        },
+        {
+          "radius": 0.19448165788534055,
+          "x": 1.7805640248085457,
+          "y": 0.6085023542542747
+        },
+        {
+          "radius": 0.18669669726538227,
+          "x": 2.768343382811425,
+          "y": -0.239423908267395
+        }
+      ],
+      "robot_yaw_deg": 5.163473323238549,
+      "target_x": 2.9759922041050864,
+      "target_y": 0.9474891083207844
+    },
+    "shield_reasons": {
+      "barrier_depart": 92,
+      "clear": 5,
+      "potential_release_clear": 1
+    },
+    "side": "base",
+    "steps": 99
+  },
+  {
+    "level": 4,
+    "minimum_lidar": 0.29708120226860046,
+    "pair_id": 21,
+    "scene": {
+      "generation_seed": 9051005,
+      "level": 4,
+      "name": "level4_00004_mirror",
+      "obstacles": [
+        {
+          "radius": 0.22994584756899755,
+          "x": 0.27809337948996404,
+          "y": -0.7844016371399977
+        },
+        {
+          "radius": 0.30717319093614126,
+          "x": 1.1653371487390844,
+          "y": -0.16819206526508204
+        },
+        {
+          "radius": 0.19448165788534055,
+          "x": 1.7805640248085457,
+          "y": -0.6085023542542747
+        },
+        {
+          "radius": 0.18669669726538227,
+          "x": 2.768343382811425,
+          "y": 0.239423908267395
+        }
+      ],
+      "robot_yaw_deg": -5.163473323238549,
+      "target_x": 2.9759922041050864,
+      "target_y": -0.9474891083207844
+    },
+    "shield_reasons": {
+      "barrier_depart": 93,
+      "clear": 4,
+      "potential_release_clear": 1
+    },
+    "side": "mirror",
+    "steps": 99
+  },
+  {
+    "level": 4,
+    "minimum_lidar": 0.33183133602142334,
+    "pair_id": 22,
+    "scene": {
+      "generation_seed": 9051005,
+      "level": 4,
+      "name": "level4_00005",
+      "obstacles": [
+        {
+          "radius": 0.27775409424210573,
+          "x": 0.7723197677120316,
+          "y": 0.8334884050210483
+        },
+        {
+          "radius": 0.40369393725961866,
+          "x": 1.1312383389482452,
+          "y": -1.2167482256823465
+        },
+        {
+          "radius": 0.18304158576643534,
+          "x": 1.9492442442507794,
+          "y": -0.2885860827183641
+        },
+        {
+          "radius": 0.3578308646441461,
+          "x": 2.5813591286634763,
+          "y": -1.3207471376350484
+        }
+      ],
+      "robot_yaw_deg": 7.289059847667335,
+      "target_x": 3.163800809095277,
+      "target_y": -0.21363011978424795
+    },
+    "shield_reasons": {
+      "barrier_depart": 69,
+      "clear": 17,
+      "potential_release_clear": 1
+    },
+    "side": "base",
+    "steps": 88
+  },
+  {
+    "level": 4,
+    "minimum_lidar": 0.31951549649238586,
+    "pair_id": 22,
+    "scene": {
+      "generation_seed": 9051005,
+      "level": 4,
+      "name": "level4_00005_mirror",
+      "obstacles": [
+        {
+          "radius": 0.27775409424210573,
+          "x": 0.7723197677120316,
+          "y": -0.8334884050210483
+        },
+        {
+          "radius": 0.40369393725961866,
+          "x": 1.1312383389482452,
+          "y": 1.2167482256823465
+        },
+        {
+          "radius": 0.18304158576643534,
+          "x": 1.9492442442507794,
+          "y": 0.2885860827183641
+        },
+        {
+          "radius": 0.3578308646441461,
+          "x": 2.5813591286634763,
+          "y": 1.3207471376350484
+        }
+      ],
+      "robot_yaw_deg": -7.289059847667335,
+      "target_x": 3.163800809095277,
+      "target_y": 0.21363011978424795
+    },
+    "shield_reasons": {
+      "barrier_depart": 69,
+      "clear": 17,
+      "potential_release_clear": 1
+    },
+    "side": "mirror",
+    "steps": 88
+  },
+  {
+    "level": 4,
+    "minimum_lidar": 0.2935912609100342,
+    "pair_id": 23,
+    "scene": {
+      "generation_seed": 9051005,
+      "level": 4,
+      "name": "level4_00006",
+      "obstacles": [
+        {
+          "radius": 0.2958950880925688,
+          "x": 0.5973855390592788,
+          "y": 0.7919626044058979
+        },
+        {
+          "radius": 0.37667900821222006,
+          "x": 0.868804618495962,
+          "y": -1.4048113191603515
+        },
+        {
+          "radius": 0.29152399392792383,
+          "x": 2.0849848038809022,
+          "y": 0.4488332243347261
+        },
+        {
+          "radius": 0.24043223739664626,
+          "x": 2.060939221671496,
+          "y": -0.5356872557308466
+        }
+      ],
+      "robot_yaw_deg": -5.128065584603549,
+      "target_x": 2.841341318571267,
+      "target_y": -0.7747600589228925
+    },
+    "shield_reasons": {
+      "barrier_depart": 56,
+      "clear": 28
+    },
+    "side": "base",
+    "steps": 85
+  },
+  {
+    "level": 4,
+    "minimum_lidar": 0.28272029757499695,
+    "pair_id": 23,
+    "scene": {
+      "generation_seed": 9051005,
+      "level": 4,
+      "name": "level4_00006_mirror",
+      "obstacles": [
+        {
+          "radius": 0.2958950880925688,
+          "x": 0.5973855390592788,
+          "y": -0.7919626044058979
+        },
+        {
+          "radius": 0.37667900821222006,
+          "x": 0.868804618495962,
+          "y": 1.4048113191603515
+        },
+        {
+          "radius": 0.29152399392792383,
+          "x": 2.0849848038809022,
+          "y": -0.4488332243347261
+        },
+        {
+          "radius": 0.24043223739664626,
+          "x": 2.060939221671496,
+          "y": 0.5356872557308466
+        }
+      ],
+      "robot_yaw_deg": 5.128065584603549,
+      "target_x": 2.841341318571267,
+      "target_y": 0.7747600589228925
+    },
+    "shield_reasons": {
+      "barrier_depart": 56,
+      "clear": 28
+    },
+    "side": "mirror",
+    "steps": 85
+  },
+  {
+    "level": 5,
+    "minimum_lidar": 0.2687268555164337,
+    "pair_id": 24,
+    "scene": {
+      "generation_seed": 9051006,
+      "level": 5,
+      "name": "level5_00001",
+      "obstacles": [
+        {
+          "radius": 0.4392346449251621,
+          "x": 0.44792152545419506,
+          "y": -1.3694150353888155
+        },
+        {
+          "radius": 0.3007058705989565,
+          "x": 0.9520801553049966,
+          "y": 1.2320354079578666
+        },
+        {
+          "radius": 0.2305652761194961,
+          "x": 1.3143717052772026,
+          "y": -0.2494571576384041
+        },
+        {
+          "radius": 0.2923213491885215,
+          "x": 2.083853486954396,
+          "y": -1.4894232358128234
+        },
+        {
+          "radius": 0.18384392988236023,
+          "x": 2.3294378383050174,
+          "y": -0.16957684577401028
+        }
+      ],
+      "robot_yaw_deg": 2.2469384813317603,
+      "target_x": 3.039377395082427,
+      "target_y": -0.40337056318069275
+    },
+    "shield_reasons": {
+      "barrier_depart": 73,
+      "clear": 19
+    },
+    "side": "base",
+    "steps": 93
+  },
+  {
+    "level": 5,
+    "minimum_lidar": 0.251006156206131,
+    "pair_id": 24,
+    "scene": {
+      "generation_seed": 9051006,
+      "level": 5,
+      "name": "level5_00001_mirror",
+      "obstacles": [
+        {
+          "radius": 0.4392346449251621,
+          "x": 0.44792152545419506,
+          "y": 1.3694150353888155
+        },
+        {
+          "radius": 0.3007058705989565,
+          "x": 0.9520801553049966,
+          "y": -1.2320354079578666
+        },
+        {
+          "radius": 0.2305652761194961,
+          "x": 1.3143717052772026,
+          "y": 0.2494571576384041
+        },
+        {
+          "radius": 0.2923213491885215,
+          "x": 2.083853486954396,
+          "y": 1.4894232358128234
+        },
+        {
+          "radius": 0.18384392988236023,
+          "x": 2.3294378383050174,
+          "y": 0.16957684577401028
+        }
+      ],
+      "robot_yaw_deg": -2.2469384813317603,
+      "target_x": 3.039377395082427,
+      "target_y": 0.40337056318069275
+    },
+    "shield_reasons": {
+      "barrier_depart": 75,
+      "clear": 18
+    },
+    "side": "mirror",
+    "steps": 94
+  },
+  {
+    "level": 5,
+    "minimum_lidar": 0.3250088691711426,
+    "pair_id": 25,
+    "scene": {
+      "generation_seed": 9051006,
+      "level": 5,
+      "name": "level5_00002",
+      "obstacles": [
+        {
+          "radius": 0.39977952678560713,
+          "x": 0.5543955670498301,
+          "y": -1.058703182126136
+        },
+        {
+          "radius": 0.30586269353898277,
+          "x": 1.0534519258487591,
+          "y": 0.1184777751729851
+        },
+        {
+          "radius": 0.2218508952519265,
+          "x": 1.691322955494671,
+          "y": -0.6591146663631399
+        },
+        {
+          "radius": 0.3626573109125185,
+          "x": 1.7650960105408606,
+          "y": 0.7023992656421023
+        },
+        {
+          "radius": 0.41211405900392983,
+          "x": 2.6078340075798567,
+          "y": -0.8986889523381911
+        }
+      ],
+      "robot_yaw_deg": 2.6245579451784664,
+      "target_x": 3.0242461812509003,
+      "target_y": 0.3108660286814102
+    },
+    "shield_reasons": {
+      "barrier_depart": 98,
+      "clear": 13,
+      "potential_release_clear": 1
+    },
+    "side": "base",
+    "steps": 113
+  },
+  {
+    "level": 5,
+    "minimum_lidar": 0.3303435444831848,
+    "pair_id": 25,
+    "scene": {
+      "generation_seed": 9051006,
+      "level": 5,
+      "name": "level5_00002_mirror",
+      "obstacles": [
+        {
+          "radius": 0.39977952678560713,
+          "x": 0.5543955670498301,
+          "y": 1.058703182126136
+        },
+        {
+          "radius": 0.30586269353898277,
+          "x": 1.0534519258487591,
+          "y": -0.1184777751729851
+        },
+        {
+          "radius": 0.2218508952519265,
+          "x": 1.691322955494671,
+          "y": 0.6591146663631399
+        },
+        {
+          "radius": 0.3626573109125185,
+          "x": 1.7650960105408606,
+          "y": -0.7023992656421023
+        },
+        {
+          "radius": 0.41211405900392983,
+          "x": 2.6078340075798567,
+          "y": 0.8986889523381911
+        }
+      ],
+      "robot_yaw_deg": -2.6245579451784664,
+      "target_x": 3.0242461812509003,
+      "target_y": -0.3108660286814102
+    },
+    "shield_reasons": {
+      "barrier_depart": 101,
+      "clear": 11,
+      "potential_release_clear": 1
+    },
+    "side": "mirror",
+    "steps": 114
+  },
+  {
+    "level": 5,
+    "minimum_lidar": 0.31165117025375366,
+    "pair_id": 26,
+    "scene": {
+      "generation_seed": 9051006,
+      "level": 5,
+      "name": "level5_00003",
+      "obstacles": [
+        {
+          "radius": 0.4353137909394893,
+          "x": 0.8267620374259795,
+          "y": -1.2488436210417313
+        },
+        {
+          "radius": 0.26995862513836255,
+          "x": 0.9574521245719864,
+          "y": 0.09469105785058518
+        },
+        {
+          "radius": 0.30214232478838265,
+          "x": 1.3399557460548412,
+          "y": 0.8741266580275805
+        },
+        {
+          "radius": 0.4203660217472316,
+          "x": 2.315702283727148,
+          "y": -0.3467541105748957
+        },
+        {
+          "radius": 0.315446227288043,
+          "x": 2.4386432247610585,
+          "y": 1.08662396770598
+        }
+      ],
+      "robot_yaw_deg": -11.266572525708511,
+      "target_x": 3.16097397696573,
+      "target_y": 0.18865576195898281
+    },
+    "shield_reasons": {
+      "barrier_depart": 137,
+      "clear": 8,
+      "potential_release_clear": 1
+    },
+    "side": "base",
+    "steps": 147
+  },
+  {
+    "level": 5,
+    "minimum_lidar": 0.3113469183444977,
+    "pair_id": 26,
+    "scene": {
+      "generation_seed": 9051006,
+      "level": 5,
+      "name": "level5_00003_mirror",
+      "obstacles": [
+        {
+          "radius": 0.4353137909394893,
+          "x": 0.8267620374259795,
+          "y": 1.2488436210417313
+        },
+        {
+          "radius": 0.26995862513836255,
+          "x": 0.9574521245719864,
+          "y": -0.09469105785058518
+        },
+        {
+          "radius": 0.30214232478838265,
+          "x": 1.3399557460548412,
+          "y": -0.8741266580275805
+        },
+        {
+          "radius": 0.4203660217472316,
+          "x": 2.315702283727148,
+          "y": 0.3467541105748957
+        },
+        {
+          "radius": 0.315446227288043,
+          "x": 2.4386432247610585,
+          "y": -1.08662396770598
+        }
+      ],
+      "robot_yaw_deg": 11.266572525708511,
+      "target_x": 3.16097397696573,
+      "target_y": -0.18865576195898281
+    },
+    "shield_reasons": {
+      "barrier_depart": 137,
+      "clear": 9,
+      "potential_release_clear": 1
+    },
+    "side": "mirror",
+    "steps": 148
+  },
+  {
+    "level": 5,
+    "minimum_lidar": 0.3367233872413635,
+    "pair_id": 27,
+    "scene": {
+      "generation_seed": 9051006,
+      "level": 5,
+      "name": "level5_00004",
+      "obstacles": [
+        {
+          "radius": 0.19459227191361209,
+          "x": 0.31564431686869027,
+          "y": -1.0933167124632721
+        },
+        {
+          "radius": 0.19547530349502662,
+          "x": 1.3785571452044942,
+          "y": 1.0153061452313263
+        },
+        {
+          "radius": 0.32508084556580874,
+          "x": 1.2375001947082582,
+          "y": -1.7514307797867166
+        },
+        {
+          "radius": 0.39808678729547914,
+          "x": 2.139183133059252,
+          "y": -0.27051951070568386
+        },
+        {
+          "radius": 0.3915267486045849,
+          "x": 3.030777410041962,
+          "y": 0.6035894407084698
+        }
+      ],
+      "robot_yaw_deg": 10.979442971962886,
+      "target_x": 3.118180362250922,
+      "target_y": -0.834322007432216
+    },
+    "shield_reasons": {
+      "barrier_depart": 55,
+      "clear": 35,
+      "predictive_stop": 1
+    },
+    "side": "base",
+    "steps": 92
+  },
+  {
+    "level": 5,
+    "minimum_lidar": 0.34823036193847656,
+    "pair_id": 27,
+    "scene": {
+      "generation_seed": 9051006,
+      "level": 5,
+      "name": "level5_00004_mirror",
+      "obstacles": [
+        {
+          "radius": 0.19459227191361209,
+          "x": 0.31564431686869027,
+          "y": 1.0933167124632721
+        },
+        {
+          "radius": 0.19547530349502662,
+          "x": 1.3785571452044942,
+          "y": -1.0153061452313263
+        },
+        {
+          "radius": 0.32508084556580874,
+          "x": 1.2375001947082582,
+          "y": 1.7514307797867166
+        },
+        {
+          "radius": 0.39808678729547914,
+          "x": 2.139183133059252,
+          "y": 0.27051951070568386
+        },
+        {
+          "radius": 0.3915267486045849,
+          "x": 3.030777410041962,
+          "y": -0.6035894407084698
+        }
+      ],
+      "robot_yaw_deg": -10.979442971962886,
+      "target_x": 3.118180362250922,
+      "target_y": 0.834322007432216
+    },
+    "shield_reasons": {
+      "barrier_depart": 55,
+      "clear": 35,
+      "predictive_stop": 1
+    },
+    "side": "mirror",
+    "steps": 92
+  },
+  {
+    "level": 5,
+    "minimum_lidar": 0.40563246607780457,
+    "pair_id": 28,
+    "scene": {
+      "generation_seed": 9051006,
+      "level": 5,
+      "name": "level5_00005",
+      "obstacles": [
+        {
+          "radius": 0.24855756014274782,
+          "x": 0.2602213684052281,
+          "y": 0.853327202289703
+        },
+        {
+          "radius": 0.2792237448030292,
+          "x": 1.0384050744908209,
+          "y": -0.6670157252139282
+        },
+        {
+          "radius": 0.18679757382915063,
+          "x": 1.4409067245299538,
+          "y": 1.1602999194978252
+        },
+        {
+          "radius": 0.306788739547734,
+          "x": 1.9426858903716042,
+          "y": -0.20535408919537318
+        },
+        {
+          "radius": 0.31007679505923275,
+          "x": 2.8064706442147793,
+          "y": -0.7195065644456641
+        }
+      ],
+      "robot_yaw_deg": 10.584542822816783,
+      "target_x": 3.201037458689188,
+      "target_y": 0.10459892789462932
+    },
+    "shield_reasons": {
+      "barrier_depart": 85,
+      "clear": 5
+    },
+    "side": "base",
+    "steps": 91
+  },
+  {
+    "level": 5,
+    "minimum_lidar": 0.40492284297943115,
+    "pair_id": 28,
+    "scene": {
+      "generation_seed": 9051006,
+      "level": 5,
+      "name": "level5_00005_mirror",
+      "obstacles": [
+        {
+          "radius": 0.24855756014274782,
+          "x": 0.2602213684052281,
+          "y": -0.853327202289703
+        },
+        {
+          "radius": 0.2792237448030292,
+          "x": 1.0384050744908209,
+          "y": 0.6670157252139282
+        },
+        {
+          "radius": 0.18679757382915063,
+          "x": 1.4409067245299538,
+          "y": -1.1602999194978252
+        },
+        {
+          "radius": 0.306788739547734,
+          "x": 1.9426858903716042,
+          "y": 0.20535408919537318
+        },
+        {
+          "radius": 0.31007679505923275,
+          "x": 2.8064706442147793,
+          "y": 0.7195065644456641
+        }
+      ],
+      "robot_yaw_deg": -10.584542822816783,
+      "target_x": 3.201037458689188,
+      "target_y": -0.10459892789462932
+    },
+    "shield_reasons": {
+      "barrier_depart": 87,
+      "clear": 4
+    },
+    "side": "mirror",
+    "steps": 92
+  },
+  {
+    "level": 5,
+    "minimum_lidar": 0.3077029585838318,
+    "pair_id": 29,
+    "scene": {
+      "generation_seed": 9051006,
+      "level": 5,
+      "name": "level5_00006",
+      "obstacles": [
+        {
+          "radius": 0.3577258897050224,
+          "x": 0.623790878591296,
+          "y": -1.0381994377979678
+        },
+        {
+          "radius": 0.1908685567809754,
+          "x": 1.3467307192142073,
+          "y": 0.7734276020916494
+        },
+        {
+          "radius": 0.3633885185378438,
+          "x": 1.6422938110913534,
+          "y": -0.1353118758162426
+        },
+        {
+          "radius": 0.3850381039783377,
+          "x": 2.015977961302149,
+          "y": -1.5237305481152292
+        },
+        {
+          "radius": 0.33420155432770215,
+          "x": 2.9145830137563977,
+          "y": 0.7271353242097679
+        }
+      ],
+      "robot_yaw_deg": 0.5015848147196724,
+      "target_x": 3.047997482150977,
+      "target_y": -0.3851223913284305
+    },
+    "shield_reasons": {
+      "barrier_depart": 93,
+      "clear": 26
+    },
+    "side": "base",
+    "steps": 120
+  },
+  {
+    "level": 5,
+    "minimum_lidar": 0.2952052056789398,
+    "pair_id": 29,
+    "scene": {
+      "generation_seed": 9051006,
+      "level": 5,
+      "name": "level5_00006_mirror",
+      "obstacles": [
+        {
+          "radius": 0.3577258897050224,
+          "x": 0.623790878591296,
+          "y": 1.0381994377979678
+        },
+        {
+          "radius": 0.1908685567809754,
+          "x": 1.3467307192142073,
+          "y": -0.7734276020916494
+        },
+        {
+          "radius": 0.3633885185378438,
+          "x": 1.6422938110913534,
+          "y": 0.1353118758162426
+        },
+        {
+          "radius": 0.3850381039783377,
+          "x": 2.015977961302149,
+          "y": 1.5237305481152292
+        },
+        {
+          "radius": 0.33420155432770215,
+          "x": 2.9145830137563977,
+          "y": -0.7271353242097679
+        }
+      ],
+      "robot_yaw_deg": -0.5015848147196724,
+      "target_x": 3.047997482150977,
+      "target_y": 0.3851223913284305
+    },
+    "shield_reasons": {
+      "barrier_depart": 94,
+      "clear": 26
+    },
+    "side": "mirror",
+    "steps": 121
+  }
+]

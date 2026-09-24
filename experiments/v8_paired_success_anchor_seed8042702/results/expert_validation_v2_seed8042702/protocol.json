@@ -1,0 +1,7 @@
+{
+  "episodes_per_side": 2,
+  "pairs": 6,
+  "required_clearance": 0.205,
+  "seed": 8042702,
+  "training": false
+}

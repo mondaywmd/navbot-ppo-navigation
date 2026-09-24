@@ -1,0 +1,20 @@
+{
+  "acceptance_rule": "bc success >= v5 and bc collision <= v5",
+  "counts": {
+    "v5": {
+      "collision": 3,
+      "success": 8,
+      "timeout": 1
+    },
+    "v8_bc": {
+      "collision": 5,
+      "success": 6,
+      "timeout": 1
+    }
+  },
+  "episodes_per_actor": 12,
+  "passed": false,
+  "permanent_ood_accessed": false,
+  "ppo_started": false,
+  "seed": 8042710
+}

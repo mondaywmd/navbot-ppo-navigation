@@ -1,0 +1,16 @@
+{
+  "dataset_role": "excluded_from_training",
+  "reason": "candidate search cancelled; V5 now initializes from final V4 Actor",
+  "npz_written": false,
+  "pillar_y": 0.06,
+  "completed_candidate_trials": [
+    {"action": [1.0, -1.0], "outcome": "success", "steps": 199},
+    {"action": [1.0, 1.0], "outcome": "success", "steps": 236},
+    {"action": [1.0, -0.8], "outcome": "success", "steps": 180},
+    {"action": [1.0, 0.8], "outcome": "success", "steps": 203},
+    {"action": [0.8, -1.0], "outcome": "success", "steps": 224},
+    {"action": [0.8, 1.0], "outcome": "success", "steps": 276},
+    {"action": [0.6, -1.0], "outcome": "success", "steps": 283},
+    {"action": [0.6, 1.0], "outcome": "timeout", "steps": 300}
+  ]
+}

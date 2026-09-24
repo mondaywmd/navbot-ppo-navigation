@@ -1,0 +1,13 @@
+clip: 0.2
+exp_id: v02_simple_env_60_reward_proportion
+gamma: 0.99
+lr: 0.0003
+max_timesteps_per_episode: 20
+method_name: stage1_watch
+n_updates_per_iteration: 50
+output_dir: /root/catkin_ws/src/project_ppo/runs
+render: true
+render_every_i: 10
+save_freq: 2
+seed: null
+timesteps_per_batch: 40

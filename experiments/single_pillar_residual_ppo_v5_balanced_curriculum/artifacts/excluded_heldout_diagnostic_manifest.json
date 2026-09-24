@@ -1,0 +1,27 @@
+{
+  "dataset_role": "excluded_from_training",
+  "reason": "pillar y=+0.10 m is a held-out diagnostic scene",
+  "training_loader_must_reject": true,
+  "persistence_note": "The interrupted collector buffered observations until final save; no observation NPZ existed on disk at interruption, so this manifest preserves the run record without fabricating tensors.",
+  "recorded_samples_before_interruption": 498,
+  "recorded_successful_episodes": [
+    {
+      "action": [1.0, -0.800000011920929],
+      "outcome": "success",
+      "pillar_y": 0.10,
+      "samples": 156
+    },
+    {
+      "action": [1.0, -0.800000011920929],
+      "outcome": "success",
+      "pillar_y": 0.10,
+      "samples": 160
+    },
+    {
+      "action": [1.0, -0.800000011920929],
+      "outcome": "success",
+      "pillar_y": 0.10,
+      "samples": 182
+    }
+  ]
+}

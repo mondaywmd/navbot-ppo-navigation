@@ -1,0 +1,14 @@
+<launch>
+  <arg name="urdf_file" default="/root/catkin_ws/src/project_ppo/experiments/clean_start_temporal_lidar_v1/generated/turtlebot3_burger_dense.urdf"/>
+  <include file="$(find gazebo_ros)/launch/empty_world.launch">
+    <arg name="world_name" value="$(find turtlebot3_gazebo)/worlds/train_world1.world"/>
+    <arg name="paused" value="false"/>
+    <arg name="use_sim_time" value="true"/>
+    <arg name="gui" value="false"/>
+    <arg name="headless" value="true"/>
+    <arg name="debug" value="false"/>
+  </include>
+  <param name="robot_description" textfile="$(arg urdf_file)"/>
+  <node name="spawn_clean_start_robot" pkg="gazebo_ros" type="spawn_model"
+        args="-urdf -model turtlebot3_burger -x 0 -y 0 -z 0 -file $(arg urdf_file)"/>
+</launch>

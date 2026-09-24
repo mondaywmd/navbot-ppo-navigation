@@ -1,0 +1,178 @@
+{
+  "checks": {
+    "closed_loop_systematic_violation": true,
+    "offline_error_clear": true,
+    "one_sided_early_collision_association": false
+  },
+  "collision_causality_claim": false,
+  "minimal_next_hypothesis": "Cannot decide; next inspect coordinate and action-composition symmetry with a minimal control audit.",
+  "offline_mirror_error": {
+    "groups": {
+      "all": {
+        "angular_error": {
+          "count": 486,
+          "max": 1.9124054908752441,
+          "mean": 1.7182503537631328,
+          "median": 1.7416808605194092,
+          "p90": 1.8374949097633362
+        },
+        "linear_error": {
+          "count": 486,
+          "max": 1.364458441734314,
+          "mean": 0.40948058241679347,
+          "median": 0.3498842120170593,
+          "p90": 0.5904709994792938
+        }
+      },
+      "early_collision": {
+        "angular_error": {
+          "count": 86,
+          "max": 1.9124054908752441,
+          "mean": 1.6769875572171322,
+          "median": 1.8183821439743042,
+          "p90": 1.9118026494979858
+        },
+        "linear_error": {
+          "count": 86,
+          "max": 1.364458441734314,
+          "mean": 0.4763050744699877,
+          "median": 0.332880437374115,
+          "p90": 1.1164684295654297
+        }
+      },
+      "success": {
+        "angular_error": {
+          "count": 200,
+          "max": 1.9096715450286865,
+          "mean": 1.727093093395233,
+          "median": 1.7433704733848572,
+          "p90": 1.8335130214691162
+        },
+        "linear_error": {
+          "count": 200,
+          "max": 1.1103702783584595,
+          "mean": 0.4019625927507877,
+          "median": 0.3453763425350189,
+          "p90": 0.5739087104797364
+        }
+      },
+      "timeout": {
+        "angular_error": {
+          "count": 200,
+          "max": 1.8950029611587524,
+          "mean": 1.727150616645813,
+          "median": 1.7159318327903748,
+          "p90": 1.8242895364761353
+        },
+        "linear_error": {
+          "count": 200,
+          "max": 0.8558804988861084,
+          "mean": 0.38826404049992563,
+          "median": 0.3736802488565445,
+          "p90": 0.5656375348567962
+        }
+      }
+    },
+    "sample_count": 486,
+    "seed": 9042603,
+    "unit_tests": {
+      "double_mirror_max_error": 0.0,
+      "finite_and_range": true,
+      "passed": true,
+      "shape": true
+    }
+  },
+  "pair_results": [
+    {
+      "action_relation_violated": true,
+      "mean_angular_error": 1.9393510550260544,
+      "mean_linear_error": 0.010947598020235698,
+      "negative_outcomes": {
+        "success": 3
+      },
+      "one_sided_early_collision": false,
+      "pair": 1,
+      "paired_steps": 60,
+      "positive_outcomes": {
+        "success": 3
+      }
+    },
+    {
+      "action_relation_violated": true,
+      "mean_angular_error": 1.939726509153843,
+      "mean_linear_error": 0.009660601615905762,
+      "negative_outcomes": {
+        "early_collision": 3
+      },
+      "one_sided_early_collision": false,
+      "pair": 2,
+      "paired_steps": 56,
+      "positive_outcomes": {
+        "early_collision": 2,
+        "success": 1
+      }
+    },
+    {
+      "action_relation_violated": true,
+      "mean_angular_error": 1.9396599562003696,
+      "mean_linear_error": 0.006481058638671349,
+      "negative_outcomes": {
+        "early_collision": 2,
+        "success": 1
+      },
+      "one_sided_early_collision": false,
+      "pair": 3,
+      "paired_steps": 58,
+      "positive_outcomes": {
+        "early_collision": 1,
+        "success": 2
+      }
+    },
+    {
+      "action_relation_violated": true,
+      "mean_angular_error": 1.9395168522993724,
+      "mean_linear_error": 0.005396978060404459,
+      "negative_outcomes": {
+        "early_collision": 1,
+        "success": 2
+      },
+      "one_sided_early_collision": false,
+      "pair": 4,
+      "paired_steps": 60,
+      "positive_outcomes": {
+        "early_collision": 2,
+        "success": 1
+      }
+    },
+    {
+      "action_relation_violated": true,
+      "mean_angular_error": 1.941017651039621,
+      "mean_linear_error": 0.008757460376490717,
+      "negative_outcomes": {
+        "early_collision": 1,
+        "success": 2
+      },
+      "one_sided_early_collision": false,
+      "pair": 5,
+      "paired_steps": 46,
+      "positive_outcomes": {
+        "early_collision": 3
+      }
+    },
+    {
+      "action_relation_violated": true,
+      "mean_angular_error": 1.9392386903365453,
+      "mean_linear_error": 0.010828523834546407,
+      "negative_outcomes": {
+        "success": 3
+      },
+      "one_sided_early_collision": false,
+      "pair": 6,
+      "paired_steps": 60,
+      "positive_outcomes": {
+        "success": 3
+      }
+    }
+  ],
+  "verdict": "evidence_insufficient"
+}

@@ -1,0 +1,14 @@
+{
+  "accepted_pairs": 24,
+  "accepted_pairs_by_level": {
+    "1": 8,
+    "2": 8,
+    "3": 8
+  },
+  "episodes": 48,
+  "keep_v5_samples": 883,
+  "min_clearance_required": 0.25,
+  "samples": 5617,
+  "seed": 8042705,
+  "training_started": false
+}

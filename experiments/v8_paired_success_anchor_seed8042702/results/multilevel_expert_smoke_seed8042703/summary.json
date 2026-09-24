@@ -1,0 +1,61 @@
+{
+  "dataset_created": false,
+  "episodes": [
+    {
+      "level": 1,
+      "min_lidar": 0.3096291124820709,
+      "name": "level1_00001",
+      "outcome": "success",
+      "path_points": 22,
+      "side": "base",
+      "steps": 91
+    },
+    {
+      "level": 1,
+      "min_lidar": 0.3217979371547699,
+      "name": "level1_00001_mirror",
+      "outcome": "success",
+      "path_points": 22,
+      "side": "mirror",
+      "steps": 90
+    },
+    {
+      "level": 2,
+      "min_lidar": 0.25573503971099854,
+      "name": "level2_00001",
+      "outcome": "success",
+      "path_points": 30,
+      "side": "base",
+      "steps": 110
+    },
+    {
+      "level": 2,
+      "min_lidar": 0.27122777700424194,
+      "name": "level2_00001_mirror",
+      "outcome": "success",
+      "path_points": 30,
+      "side": "mirror",
+      "steps": 110
+    },
+    {
+      "level": 3,
+      "min_lidar": 0.3364630341529846,
+      "name": "level3_00001",
+      "outcome": "success",
+      "path_points": 34,
+      "side": "base",
+      "steps": 119
+    },
+    {
+      "level": 3,
+      "min_lidar": 0.33656129240989685,
+      "name": "level3_00001_mirror",
+      "outcome": "success",
+      "path_points": 34,
+      "side": "mirror",
+      "steps": 120
+    }
+  ],
+  "successes": 6,
+  "training": false
+}

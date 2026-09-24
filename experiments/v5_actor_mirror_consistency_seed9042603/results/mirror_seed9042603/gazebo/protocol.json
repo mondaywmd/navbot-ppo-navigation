@@ -1,0 +1,23 @@
+{
+  "associated_pair_angular_error_median": 0.1,
+  "early_collision_max_step": 30,
+  "early_window_steps": 20,
+  "episodes_per_side": 3,
+  "exploration": false,
+  "max_steps": 300,
+  "offline_thresholds": {
+    "angular_median": 0.1,
+    "angular_p90": 0.2,
+    "linear_median": 0.05,
+    "linear_p90": 0.1
+  },
+  "one_sided_early_collision_pair_count": 2,
+  "pair_violation_thresholds": {
+    "mean_angular_error": 0.1,
+    "mean_linear_error": 0.05
+  },
+  "pairs": 6,
+  "seed": 9042603,
+  "systematic_pair_count": 4,
+  "training": false
+}

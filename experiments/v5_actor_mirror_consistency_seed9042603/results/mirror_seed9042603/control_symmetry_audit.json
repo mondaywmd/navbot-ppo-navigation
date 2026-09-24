@@ -1,0 +1,15 @@
+{
+  "interpretation": "unchanged nominal and gated residual composition are mirror symmetric",
+  "maximum_errors": {
+    "gate_0_angular": 0.0,
+    "gate_0_linear": 0.0,
+    "gate_1_angular": 0.0,
+    "gate_1_linear": 0.0,
+    "nominal_angular": 0.0,
+    "nominal_linear": 0.0
+  },
+  "passed": true,
+  "samples": 1000,
+  "seed": 9042603,
+  "tolerance": 1e-06
+}

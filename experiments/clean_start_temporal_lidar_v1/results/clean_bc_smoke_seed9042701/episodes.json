@@ -1,0 +1,190 @@
+[
+  {
+    "level": 1,
+    "minimum_lidar": 0.31938615441322327,
+    "pair_id": 0,
+    "scene": {
+      "level": 1,
+      "name": "level1_00001",
+      "obstacles": [
+        {
+          "radius": 0.27231011788434295,
+          "x": 1.2423507794735114,
+          "y": 0.28878738139630605
+        }
+      ],
+      "robot_yaw_deg": 8.833010231758145,
+      "target_x": 2.169968048416444,
+      "target_y": 1.0317663495179572
+    },
+    "shield_reasons": {
+      "clear": 34,
+      "turn_side_slow": 167,
+      "turn_side_stop": 1
+    },
+    "side": "base",
+    "steps": 203
+  },
+  {
+    "level": 1,
+    "minimum_lidar": 0.3161141276359558,
+    "pair_id": 0,
+    "scene": {
+      "level": 1,
+      "name": "level1_00001_mirror",
+      "obstacles": [
+        {
+          "radius": 0.27231011788434295,
+          "x": 1.2423507794735114,
+          "y": -0.28878738139630605
+        }
+      ],
+      "robot_yaw_deg": -8.833010231758145,
+      "target_x": 2.169968048416444,
+      "target_y": -1.0317663495179572
+    },
+    "shield_reasons": {
+      "clear": 31,
+      "turn_side_slow": 168,
+      "turn_side_stop": 1
+    },
+    "side": "mirror",
+    "steps": 201
+  },
+  {
+    "level": 2,
+    "minimum_lidar": 0.30435624718666077,
+    "pair_id": 1,
+    "scene": {
+      "level": 2,
+      "name": "level2_00002",
+      "obstacles": [
+        {
+          "radius": 0.3120716594639754,
+          "x": 1.1851595195855937,
+          "y": -0.018605069224751136
+        },
+        {
+          "radius": 0.26958599546644174,
+          "x": 2.144229806913816,
+          "y": -0.6839126653565035
+        }
+      ],
+      "robot_yaw_deg": 12.150568514402313,
+      "target_x": 3.00699805564509,
+      "target_y": -0.9382996657363605
+    },
+    "shield_reasons": {
+      "clear": 42,
+      "predictive_stop": 1,
+      "turn_side_slow": 190,
+      "turn_side_stop": 3
+    },
+    "side": "base",
+    "steps": 237
+  },
+  {
+    "level": 2,
+    "minimum_lidar": 0.3101694583892822,
+    "pair_id": 1,
+    "scene": {
+      "level": 2,
+      "name": "level2_00002_mirror",
+      "obstacles": [
+        {
+          "radius": 0.3120716594639754,
+          "x": 1.1851595195855937,
+          "y": 0.018605069224751136
+        },
+        {
+          "radius": 0.26958599546644174,
+          "x": 2.144229806913816,
+          "y": 0.6839126653565035
+        }
+      ],
+      "robot_yaw_deg": -12.150568514402313,
+      "target_x": 3.00699805564509,
+      "target_y": 0.9382996657363605
+    },
+    "shield_reasons": {
+      "clear": 56,
+      "predictive_stop": 2,
+      "turn_side_slow": 160,
+      "turn_side_stop": 4
+    },
+    "side": "mirror",
+    "steps": 223
+  },
+  {
+    "level": 3,
+    "minimum_lidar": 0.32593852281570435,
+    "pair_id": 2,
+    "scene": {
+      "level": 3,
+      "name": "level3_00001",
+      "obstacles": [
+        {
+          "radius": 0.3499074274550348,
+          "x": 0.7643849395992554,
+          "y": 0.8386431243352678
+        },
+        {
+          "radius": 0.40052606136555485,
+          "x": 1.964667840084057,
+          "y": -0.3946227826444269
+        },
+        {
+          "radius": 0.2099646000404833,
+          "x": 2.447473276958781,
+          "y": 0.6160365953772724
+        }
+      ],
+      "robot_yaw_deg": -14.862445391474774,
+      "target_x": 3.2702121004397746,
+      "target_y": 0.6217097691436815
+    },
+    "shield_reasons": {
+      "clear": 42,
+      "predictive_stop": 3,
+      "turn_side_slow": 243
+    },
+    "side": "base",
+    "steps": 289
+  },
+  {
+    "level": 3,
+    "minimum_lidar": 0.32367438077926636,
+    "pair_id": 2,
+    "scene": {
+      "level": 3,
+      "name": "level3_00001_mirror",
+      "obstacles": [
+        {
+          "radius": 0.3499074274550348,
+          "x": 0.7643849395992554,
+          "y": -0.8386431243352678
+        },
+        {
+          "radius": 0.40052606136555485,
+          "x": 1.964667840084057,
+          "y": 0.3946227826444269
+        },
+        {
+          "radius": 0.2099646000404833,
+          "x": 2.447473276958781,
+          "y": -0.6160365953772724
+        }
+      ],
+      "robot_yaw_deg": 14.862445391474774,
+      "target_x": 3.2702121004397746,
+      "target_y": -0.6217097691436815
+    },
+    "shield_reasons": {
+      "clear": 34,
+      "predictive_stop": 1,
+      "turn_side_slow": 257
+    },
+    "side": "mirror",
+    "steps": 293
+  }
+]

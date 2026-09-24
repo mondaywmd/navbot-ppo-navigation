@@ -1,0 +1,13 @@
+level,scene,side,outcome,steps,step_limit,official_step_limit,diagnostic_extension,minimum_lidar,distance_at_limit,final_distance,shield_reasons
+1,level1_00001,base,success,73,500,500,False,0.33864301443099976,,0.18772509755073932,"{""barrier_depart"": 51, ""clear"": 20, ""potential_release_clear"": 1}"
+1,level1_00001_mirror,mirror,success,73,500,500,False,0.3311844766139984,,0.1847424895519199,"{""barrier_depart"": 52, ""clear"": 19, ""potential_release_clear"": 1}"
+1,level1_00002,base,success,63,500,500,False,0.3416522145271301,,0.1871861263488337,"{""barrier_depart"": 50, ""clear"": 11, ""potential_release_clear"": 1}"
+1,level1_00002_mirror,mirror,success,63,500,500,False,0.3601977229118347,,0.18648406701907652,"{""barrier_depart"": 50, ""clear"": 11, ""potential_release_clear"": 1}"
+2,level2_00001,base,success,80,500,500,False,0.3053911328315735,,0.16850617254433525,"{""barrier_depart"": 67, ""clear"": 11, ""potential_release_clear"": 1}"
+2,level2_00001_mirror,mirror,success,80,500,500,False,0.31278884410858154,,0.1697103391126181,"{""barrier_depart"": 67, ""clear"": 11, ""potential_release_clear"": 1}"
+2,level2_00002,base,success,111,500,500,False,0.3201565742492676,,0.19925721776013103,"{""barrier_depart"": 96, ""clear"": 13, ""potential_release_clear"": 1}"
+2,level2_00002_mirror,mirror,success,111,500,500,False,0.3290137052536011,,0.19517841011747986,"{""barrier_depart"": 97, ""clear"": 12, ""potential_release_clear"": 1}"
+3,level3_00001,base,success,105,500,500,False,0.3098578453063965,,0.19426640412245427,"{""barrier_depart"": 58, ""clear"": 46}"
+3,level3_00001_mirror,mirror,success,104,500,500,False,0.3144577145576477,,0.19675620766424973,"{""barrier_depart"": 56, ""clear"": 47}"
+3,level3_00002,base,success,92,500,500,False,0.3240043520927429,,0.16568659740162467,"{""barrier_depart"": 69, ""clear"": 22}"
+3,level3_00002_mirror,mirror,success,92,500,500,False,0.33010804653167725,,0.16595170797950964,"{""barrier_depart"": 69, ""clear"": 22}"

@@ -1,0 +1,19 @@
+{
+  "comparison_window": "later of first distance < 0.40 m and final 100 steps",
+  "deterministic": true,
+  "early_collision_max_step": 30,
+  "episodes_per_scene": 3,
+  "exploration": false,
+  "max_steps": 300,
+  "near_goal_safe_timeout_final_distance_m": [
+    0.2,
+    0.3
+  ],
+  "repeated_nonconvergence": "at least two thirds of near-goal timeouts have >=4 distance-trend reversals and final-minus-minimum distance >=0.02 m",
+  "scenes": 12,
+  "seed": 9042602,
+  "success_threshold_unchanged_m": 0.2,
+  "support_requires_near_goal_timeouts": 3,
+  "systematically_higher": "timeout median > success median and at least 75% of timeout values > success median",
+  "training": false
+}

@@ -1,0 +1,688 @@
+[
+  {
+    "pillar_count": 3,
+    "scene_seed": 1172059624,
+    "outcome": "success",
+    "steps": 97,
+    "minimum_lidar": 0.24663683772087097
+  },
+  {
+    "pillar_count": 1,
+    "scene_seed": 31129715,
+    "outcome": "success",
+    "steps": 81,
+    "minimum_lidar": 0.48295748233795166
+  },
+  {
+    "pillar_count": 5,
+    "scene_seed": 130554725,
+    "outcome": "success",
+    "steps": 92,
+    "minimum_lidar": 0.22905826568603516
+  },
+  {
+    "pillar_count": 3,
+    "scene_seed": 763359343,
+    "outcome": "success",
+    "steps": 86,
+    "minimum_lidar": 0.3444928526878357
+  },
+  {
+    "pillar_count": 4,
+    "scene_seed": 1943906233,
+    "outcome": "collision",
+    "steps": 198,
+    "minimum_lidar": 0.19657301902770996
+  },
+  {
+    "pillar_count": 2,
+    "scene_seed": 371540163,
+    "outcome": "success",
+    "steps": 71,
+    "minimum_lidar": 0.45326900482177734
+  },
+  {
+    "pillar_count": 2,
+    "scene_seed": 782804912,
+    "outcome": "success",
+    "steps": 95,
+    "minimum_lidar": 0.3164588510990143
+  },
+  {
+    "pillar_count": 1,
+    "scene_seed": 1043627431,
+    "outcome": "success",
+    "steps": 81,
+    "minimum_lidar": 0.41398414969444275
+  },
+  {
+    "pillar_count": 5,
+    "scene_seed": 981838055,
+    "outcome": "success",
+    "steps": 143,
+    "minimum_lidar": 0.3157646656036377
+  },
+  {
+    "pillar_count": 2,
+    "scene_seed": 166798300,
+    "outcome": "success",
+    "steps": 75,
+    "minimum_lidar": 0.24247480928897858
+  },
+  {
+    "pillar_count": 1,
+    "scene_seed": 411625345,
+    "outcome": "success",
+    "steps": 73,
+    "minimum_lidar": 0.39369797706604004
+  },
+  {
+    "pillar_count": 4,
+    "scene_seed": 777571770,
+    "outcome": "success",
+    "steps": 101,
+    "minimum_lidar": 0.27329447865486145
+  },
+  {
+    "pillar_count": 5,
+    "scene_seed": 778386576,
+    "outcome": "success",
+    "steps": 93,
+    "minimum_lidar": 0.3030482530593872
+  },
+  {
+    "pillar_count": 4,
+    "scene_seed": 1174804281,
+    "outcome": "success",
+    "steps": 99,
+    "minimum_lidar": 0.3049556016921997
+  },
+  {
+    "pillar_count": 2,
+    "scene_seed": 548647561,
+    "outcome": "success",
+    "steps": 86,
+    "minimum_lidar": 0.464815229177475
+  },
+  {
+    "pillar_count": 5,
+    "scene_seed": 558454864,
+    "outcome": "success",
+    "steps": 108,
+    "minimum_lidar": 0.26916104555130005
+  },
+  {
+    "pillar_count": 2,
+    "scene_seed": 125219682,
+    "outcome": "success",
+    "steps": 82,
+    "minimum_lidar": 0.40612363815307617
+  },
+  {
+    "pillar_count": 2,
+    "scene_seed": 1350161031,
+    "outcome": "success",
+    "steps": 104,
+    "minimum_lidar": 0.35680392384529114
+  },
+  {
+    "pillar_count": 2,
+    "scene_seed": 803196619,
+    "outcome": "success",
+    "steps": 102,
+    "minimum_lidar": 0.35961467027664185
+  },
+  {
+    "pillar_count": 5,
+    "scene_seed": 1504384074,
+    "outcome": "timeout",
+    "steps": 200,
+    "minimum_lidar": 0.20924592018127441
+  },
+  {
+    "pillar_count": 1,
+    "scene_seed": 783254987,
+    "outcome": "success",
+    "steps": 84,
+    "minimum_lidar": 0.42162808775901794
+  },
+  {
+    "pillar_count": 1,
+    "scene_seed": 646174812,
+    "outcome": "success",
+    "steps": 53,
+    "minimum_lidar": 0.3019329607486725
+  },
+  {
+    "pillar_count": 3,
+    "scene_seed": 595609832,
+    "outcome": "success",
+    "steps": 91,
+    "minimum_lidar": 0.31610220670700073
+  },
+  {
+    "pillar_count": 4,
+    "scene_seed": 1741416628,
+    "outcome": "success",
+    "steps": 99,
+    "minimum_lidar": 0.2992602288722992
+  },
+  {
+    "pillar_count": 3,
+    "scene_seed": 718950405,
+    "outcome": "timeout",
+    "steps": 200,
+    "minimum_lidar": 0.2169775515794754
+  },
+  {
+    "pillar_count": 4,
+    "scene_seed": 278389797,
+    "outcome": "success",
+    "steps": 105,
+    "minimum_lidar": 0.2274288684129715
+  },
+  {
+    "pillar_count": 2,
+    "scene_seed": 249427981,
+    "outcome": "success",
+    "steps": 120,
+    "minimum_lidar": 0.29546767473220825
+  },
+  {
+    "pillar_count": 3,
+    "scene_seed": 852755651,
+    "outcome": "success",
+    "steps": 116,
+    "minimum_lidar": 0.33207204937934875
+  },
+  {
+    "pillar_count": 3,
+    "scene_seed": 1817755181,
+    "outcome": "success",
+    "steps": 109,
+    "minimum_lidar": 0.28172188997268677
+  },
+  {
+    "pillar_count": 4,
+    "scene_seed": 1013385295,
+    "outcome": "success",
+    "steps": 94,
+    "minimum_lidar": 0.22682976722717285
+  },
+  {
+    "pillar_count": 2,
+    "scene_seed": 2019377111,
+    "outcome": "success",
+    "steps": 94,
+    "minimum_lidar": 0.5565539598464966
+  },
+  {
+    "pillar_count": 4,
+    "scene_seed": 1039662955,
+    "outcome": "success",
+    "steps": 117,
+    "minimum_lidar": 0.25923338532447815
+  },
+  {
+    "pillar_count": 1,
+    "scene_seed": 365386598,
+    "outcome": "success",
+    "steps": 62,
+    "minimum_lidar": 0.3065866231918335
+  },
+  {
+    "pillar_count": 4,
+    "scene_seed": 1799556332,
+    "outcome": "success",
+    "steps": 108,
+    "minimum_lidar": 0.24891285598278046
+  },
+  {
+    "pillar_count": 4,
+    "scene_seed": 447106397,
+    "outcome": "success",
+    "steps": 110,
+    "minimum_lidar": 0.23026596009731293
+  },
+  {
+    "pillar_count": 5,
+    "scene_seed": 1935377790,
+    "outcome": "success",
+    "steps": 138,
+    "minimum_lidar": 0.20912359654903412
+  },
+  {
+    "pillar_count": 4,
+    "scene_seed": 1523931426,
+    "outcome": "success",
+    "steps": 90,
+    "minimum_lidar": 0.24008633196353912
+  },
+  {
+    "pillar_count": 4,
+    "scene_seed": 2048084605,
+    "outcome": "success",
+    "steps": 94,
+    "minimum_lidar": 0.2251264750957489
+  },
+  {
+    "pillar_count": 3,
+    "scene_seed": 476130866,
+    "outcome": "success",
+    "steps": 105,
+    "minimum_lidar": 0.2685632109642029
+  },
+  {
+    "pillar_count": 5,
+    "scene_seed": 692840640,
+    "outcome": "success",
+    "steps": 86,
+    "minimum_lidar": 0.22918885946273804
+  },
+  {
+    "pillar_count": 2,
+    "scene_seed": 549164238,
+    "outcome": "success",
+    "steps": 64,
+    "minimum_lidar": 0.332601398229599
+  },
+  {
+    "pillar_count": 1,
+    "scene_seed": 2010331671,
+    "outcome": "success",
+    "steps": 57,
+    "minimum_lidar": 0.37251177430152893
+  },
+  {
+    "pillar_count": 3,
+    "scene_seed": 642586702,
+    "outcome": "success",
+    "steps": 111,
+    "minimum_lidar": 0.20559804141521454
+  },
+  {
+    "pillar_count": 2,
+    "scene_seed": 720033541,
+    "outcome": "success",
+    "steps": 89,
+    "minimum_lidar": 0.37830498814582825
+  },
+  {
+    "pillar_count": 4,
+    "scene_seed": 426274340,
+    "outcome": "success",
+    "steps": 118,
+    "minimum_lidar": 0.28054389357566833
+  },
+  {
+    "pillar_count": 2,
+    "scene_seed": 1330964540,
+    "outcome": "success",
+    "steps": 94,
+    "minimum_lidar": 0.27641811966896057
+  },
+  {
+    "pillar_count": 4,
+    "scene_seed": 1838830332,
+    "outcome": "success",
+    "steps": 127,
+    "minimum_lidar": 0.22002430260181427
+  },
+  {
+    "pillar_count": 1,
+    "scene_seed": 797050094,
+    "outcome": "success",
+    "steps": 52,
+    "minimum_lidar": 0.34566962718963623
+  },
+  {
+    "pillar_count": 4,
+    "scene_seed": 1696046471,
+    "outcome": "success",
+    "steps": 81,
+    "minimum_lidar": 0.227177232503891
+  },
+  {
+    "pillar_count": 1,
+    "scene_seed": 1233953180,
+    "outcome": "success",
+    "steps": 74,
+    "minimum_lidar": 0.2798199951648712
+  },
+  {
+    "pillar_count": 2,
+    "scene_seed": 1552648017,
+    "outcome": "success",
+    "steps": 95,
+    "minimum_lidar": 0.33067816495895386
+  },
+  {
+    "pillar_count": 5,
+    "scene_seed": 1634291067,
+    "outcome": "success",
+    "steps": 87,
+    "minimum_lidar": 0.24335727095603943
+  },
+  {
+    "pillar_count": 3,
+    "scene_seed": 1052516276,
+    "outcome": "success",
+    "steps": 96,
+    "minimum_lidar": 0.253677099943161
+  },
+  {
+    "pillar_count": 5,
+    "scene_seed": 827639974,
+    "outcome": "success",
+    "steps": 128,
+    "minimum_lidar": 0.22051747143268585
+  },
+  {
+    "pillar_count": 1,
+    "scene_seed": 1135767673,
+    "outcome": "success",
+    "steps": 58,
+    "minimum_lidar": 0.431212455034256
+  },
+  {
+    "pillar_count": 4,
+    "scene_seed": 926676895,
+    "outcome": "success",
+    "steps": 93,
+    "minimum_lidar": 0.22278861701488495
+  },
+  {
+    "pillar_count": 1,
+    "scene_seed": 2064197960,
+    "outcome": "success",
+    "steps": 52,
+    "minimum_lidar": 0.3931514024734497
+  },
+  {
+    "pillar_count": 1,
+    "scene_seed": 1377243955,
+    "outcome": "success",
+    "steps": 70,
+    "minimum_lidar": 0.40255776047706604
+  },
+  {
+    "pillar_count": 3,
+    "scene_seed": 444502677,
+    "outcome": "success",
+    "steps": 88,
+    "minimum_lidar": 0.2773206830024719
+  },
+  {
+    "pillar_count": 2,
+    "scene_seed": 1175922172,
+    "outcome": "success",
+    "steps": 95,
+    "minimum_lidar": 0.3255488872528076
+  },
+  {
+    "pillar_count": 4,
+    "scene_seed": 1941288965,
+    "outcome": "success",
+    "steps": 96,
+    "minimum_lidar": 0.2692837715148926
+  },
+  {
+    "pillar_count": 5,
+    "scene_seed": 1042132674,
+    "outcome": "success",
+    "steps": 86,
+    "minimum_lidar": 0.23980551958084106
+  },
+  {
+    "pillar_count": 3,
+    "scene_seed": 121528677,
+    "outcome": "success",
+    "steps": 112,
+    "minimum_lidar": 0.2120954841375351
+  },
+  {
+    "pillar_count": 4,
+    "scene_seed": 362365880,
+    "outcome": "success",
+    "steps": 91,
+    "minimum_lidar": 0.22190234065055847
+  },
+  {
+    "pillar_count": 3,
+    "scene_seed": 1801652787,
+    "outcome": "success",
+    "steps": 99,
+    "minimum_lidar": 0.3355273902416229
+  },
+  {
+    "pillar_count": 3,
+    "scene_seed": 85251495,
+    "outcome": "success",
+    "steps": 94,
+    "minimum_lidar": 0.48932719230651855
+  },
+  {
+    "pillar_count": 4,
+    "scene_seed": 145624259,
+    "outcome": "success",
+    "steps": 152,
+    "minimum_lidar": 0.20784308016300201
+  },
+  {
+    "pillar_count": 2,
+    "scene_seed": 1548856589,
+    "outcome": "success",
+    "steps": 90,
+    "minimum_lidar": 0.2524946331977844
+  },
+  {
+    "pillar_count": 2,
+    "scene_seed": 175401114,
+    "outcome": "success",
+    "steps": 68,
+    "minimum_lidar": 0.28095585107803345
+  },
+  {
+    "pillar_count": 1,
+    "scene_seed": 1220614166,
+    "outcome": "success",
+    "steps": 53,
+    "minimum_lidar": 0.2745093107223511
+  },
+  {
+    "pillar_count": 3,
+    "scene_seed": 929993739,
+    "outcome": "success",
+    "steps": 108,
+    "minimum_lidar": 0.2289365530014038
+  },
+  {
+    "pillar_count": 1,
+    "scene_seed": 435029305,
+    "outcome": "success",
+    "steps": 94,
+    "minimum_lidar": 0.24474231898784637
+  },
+  {
+    "pillar_count": 4,
+    "scene_seed": 752930964,
+    "outcome": "success",
+    "steps": 99,
+    "minimum_lidar": 0.2595204710960388
+  },
+  {
+    "pillar_count": 3,
+    "scene_seed": 581267281,
+    "outcome": "success",
+    "steps": 104,
+    "minimum_lidar": 0.2509192228317261
+  },
+  {
+    "pillar_count": 3,
+    "scene_seed": 1728005912,
+    "outcome": "success",
+    "steps": 132,
+    "minimum_lidar": 0.2160102128982544
+  },
+  {
+    "pillar_count": 5,
+    "scene_seed": 390334186,
+    "outcome": "success",
+    "steps": 99,
+    "minimum_lidar": 0.24121658504009247
+  },
+  {
+    "pillar_count": 3,
+    "scene_seed": 348019059,
+    "outcome": "success",
+    "steps": 87,
+    "minimum_lidar": 0.22586046159267426
+  },
+  {
+    "pillar_count": 3,
+    "scene_seed": 2083917385,
+    "outcome": "timeout",
+    "steps": 200,
+    "minimum_lidar": 0.3666822612285614
+  },
+  {
+    "pillar_count": 2,
+    "scene_seed": 1900111958,
+    "outcome": "success",
+    "steps": 88,
+    "minimum_lidar": 0.2537519037723541
+  },
+  {
+    "pillar_count": 5,
+    "scene_seed": 568925341,
+    "outcome": "success",
+    "steps": 96,
+    "minimum_lidar": 0.21654562652111053
+  },
+  {
+    "pillar_count": 3,
+    "scene_seed": 1870683813,
+    "outcome": "success",
+    "steps": 108,
+    "minimum_lidar": 0.27274757623672485
+  },
+  {
+    "pillar_count": 3,
+    "scene_seed": 130496911,
+    "outcome": "timeout",
+    "steps": 200,
+    "minimum_lidar": 0.24787095189094543
+  },
+  {
+    "pillar_count": 2,
+    "scene_seed": 1350219179,
+    "outcome": "success",
+    "steps": 87,
+    "minimum_lidar": 0.27248427271842957
+  },
+  {
+    "pillar_count": 1,
+    "scene_seed": 1554054258,
+    "outcome": "success",
+    "steps": 66,
+    "minimum_lidar": 0.26023802161216736
+  },
+  {
+    "pillar_count": 3,
+    "scene_seed": 766541760,
+    "outcome": "success",
+    "steps": 129,
+    "minimum_lidar": 0.2211523801088333
+  },
+  {
+    "pillar_count": 2,
+    "scene_seed": 1969142768,
+    "outcome": "success",
+    "steps": 109,
+    "minimum_lidar": 0.24350768327713013
+  },
+  {
+    "pillar_count": 5,
+    "scene_seed": 2140362581,
+    "outcome": "success",
+    "steps": 124,
+    "minimum_lidar": 0.2135661393404007
+  },
+  {
+    "pillar_count": 3,
+    "scene_seed": 142004374,
+    "outcome": "success",
+    "steps": 162,
+    "minimum_lidar": 0.23213492333889008
+  },
+  {
+    "pillar_count": 3,
+    "scene_seed": 1318124227,
+    "outcome": "success",
+    "steps": 102,
+    "minimum_lidar": 0.23448729515075684
+  },
+  {
+    "pillar_count": 2,
+    "scene_seed": 2125250274,
+    "outcome": "success",
+    "steps": 79,
+    "minimum_lidar": 0.22367601096630096
+  },
+  {
+    "pillar_count": 2,
+    "scene_seed": 1803619658,
+    "outcome": "success",
+    "steps": 89,
+    "minimum_lidar": 0.2290019392967224
+  },
+  {
+    "pillar_count": 4,
+    "scene_seed": 1045796502,
+    "outcome": "success",
+    "steps": 96,
+    "minimum_lidar": 0.22484718263149261
+  },
+  {
+    "pillar_count": 1,
+    "scene_seed": 1397360212,
+    "outcome": "success",
+    "steps": 89,
+    "minimum_lidar": 0.5362889170646667
+  },
+  {
+    "pillar_count": 4,
+    "scene_seed": 1457561395,
+    "outcome": "timeout",
+    "steps": 200,
+    "minimum_lidar": 0.34036776423454285
+  },
+  {
+    "pillar_count": 3,
+    "scene_seed": 217433724,
+    "outcome": "success",
+    "steps": 169,
+    "minimum_lidar": 0.22093568742275238
+  },
+  {
+    "pillar_count": 4,
+    "scene_seed": 772280744,
+    "outcome": "success",
+    "steps": 95,
+    "minimum_lidar": 0.2305905669927597
+  },
+  {
+    "pillar_count": 1,
+    "scene_seed": 390853910,
+    "outcome": "success",
+    "steps": 88,
+    "minimum_lidar": 0.2950446307659149
+  },
+  {
+    "pillar_count": 5,
+    "scene_seed": 1424160884,
+    "outcome": "success",
+    "steps": 99,
+    "minimum_lidar": 0.2365279644727707
+  }
+]

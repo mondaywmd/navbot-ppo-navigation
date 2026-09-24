@@ -1,0 +1,28 @@
+{
+  "overall": {
+    "collision_rate": 0.0,
+    "collisions": 0,
+    "episodes": 10,
+    "mean_min_lidar": 0.28986385464668274,
+    "mean_steps": 213.3,
+    "min_lidar": 0.2273842692375183,
+    "success_rate": 100.0,
+    "successes": 10,
+    "timeout_rate": 0.0,
+    "timeouts": 0
+  },
+  "per_scenario": {
+    "center_single_pillar": {
+      "collision_rate": 0.0,
+      "collisions": 0,
+      "episodes": 10,
+      "mean_min_lidar": 0.28986385464668274,
+      "mean_steps": 213.3,
+      "min_lidar": 0.2273842692375183,
+      "success_rate": 100.0,
+      "successes": 10,
+      "timeout_rate": 0.0,
+      "timeouts": 0
+    }
+  }
+}

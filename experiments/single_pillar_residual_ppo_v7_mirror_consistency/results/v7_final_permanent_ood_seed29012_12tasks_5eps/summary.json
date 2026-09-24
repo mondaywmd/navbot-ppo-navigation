@@ -1,0 +1,153 @@
+{
+  "checkpoint": "/root/catkin_ws/src/project_ppo/experiments/single_pillar_residual_ppo_v7_mirror_consistency/runs/v7_v5init_online_mirror_10k_seed7042701/checkpoints/actor_iter0017_step00010226.pth",
+  "checkpoint_sha256": "c9e8eef1ddf6c97922f145f3ac04bbfb67d8863231f50b2aec9220016101846b",
+  "episodes_per_task": 5,
+  "exploration": false,
+  "max_steps": 300,
+  "overall": {
+    "collision_rate": 48.333333333333336,
+    "collisions": 29,
+    "episodes": 60,
+    "mean_steps": 128.85,
+    "min_lidar": 0.1710018664598465,
+    "success_rate": 38.333333333333336,
+    "successes": 23,
+    "timeout_rate": 13.333333333333334,
+    "timeouts": 8
+  },
+  "per_task": {
+    "ood_seed29012_task01": {
+      "collision_rate": 0.0,
+      "collisions": 0,
+      "episodes": 5,
+      "mean_steps": 129.6,
+      "min_lidar": 0.21490612626075745,
+      "success_rate": 100.0,
+      "successes": 5,
+      "timeout_rate": 0.0,
+      "timeouts": 0
+    },
+    "ood_seed29012_task02": {
+      "collision_rate": 60.0,
+      "collisions": 3,
+      "episodes": 5,
+      "mean_steps": 120.6,
+      "min_lidar": 0.19218362867832184,
+      "success_rate": 40.0,
+      "successes": 2,
+      "timeout_rate": 0.0,
+      "timeouts": 0
+    },
+    "ood_seed29012_task03": {
+      "collision_rate": 60.0,
+      "collisions": 3,
+      "episodes": 5,
+      "mean_steps": 277.0,
+      "min_lidar": 0.19317615032196045,
+      "success_rate": 20.0,
+      "successes": 1,
+      "timeout_rate": 20.0,
+      "timeouts": 1
+    },
+    "ood_seed29012_task04": {
+      "collision_rate": 40.0,
+      "collisions": 2,
+      "episodes": 5,
+      "mean_steps": 167.0,
+      "min_lidar": 0.1710018664598465,
+      "success_rate": 40.0,
+      "successes": 2,
+      "timeout_rate": 20.0,
+      "timeouts": 1
+    },
+    "ood_seed29012_task05": {
+      "collision_rate": 0.0,
+      "collisions": 0,
+      "episodes": 5,
+      "mean_steps": 176.2,
+      "min_lidar": 0.2969140112400055,
+      "success_rate": 100.0,
+      "successes": 5,
+      "timeout_rate": 0.0,
+      "timeouts": 0
+    },
+    "ood_seed29012_task06": {
+      "collision_rate": 100.0,
+      "collisions": 5,
+      "episodes": 5,
+      "mean_steps": 19.0,
+      "min_lidar": 0.18107829988002777,
+      "success_rate": 0.0,
+      "successes": 0,
+      "timeout_rate": 0.0,
+      "timeouts": 0
+    },
+    "ood_seed29012_task07": {
+      "collision_rate": 100.0,
+      "collisions": 5,
+      "episodes": 5,
+      "mean_steps": 14.2,
+      "min_lidar": 0.18594467639923096,
+      "success_rate": 0.0,
+      "successes": 0,
+      "timeout_rate": 0.0,
+      "timeouts": 0
+    },
+    "ood_seed29012_task08": {
+      "collision_rate": 100.0,
+      "collisions": 5,
+      "episodes": 5,
+      "mean_steps": 23.8,
+      "min_lidar": 0.1824028640985489,
+      "success_rate": 0.0,
+      "successes": 0,
+      "timeout_rate": 0.0,
+      "timeouts": 0
+    },
+    "ood_seed29012_task09": {
+      "collision_rate": 40.0,
+      "collisions": 2,
+      "episodes": 5,
+      "mean_steps": 182.8,
+      "min_lidar": 0.17272889614105225,
+      "success_rate": 20.0,
+      "successes": 1,
+      "timeout_rate": 40.0,
+      "timeouts": 2
+    },
+    "ood_seed29012_task10": {
+      "collision_rate": 40.0,
+      "collisions": 2,
+      "episodes": 5,
+      "mean_steps": 93.8,
+      "min_lidar": 0.1773671954870224,
+      "success_rate": 60.0,
+      "successes": 3,
+      "timeout_rate": 0.0,
+      "timeouts": 0
+    },
+    "ood_seed29012_task11": {
+      "collision_rate": 20.0,
+      "collisions": 1,
+      "episodes": 5,
+      "mean_steps": 244.4,
+      "min_lidar": 0.19372084736824036,
+      "success_rate": 0.0,
+      "successes": 0,
+      "timeout_rate": 80.0,
+      "timeouts": 4
+    },
+    "ood_seed29012_task12": {
+      "collision_rate": 20.0,
+      "collisions": 1,
+      "episodes": 5,
+      "mean_steps": 97.8,
+      "min_lidar": 0.1879996359348297,
+      "success_rate": 80.0,
+      "successes": 4,
+      "timeout_rate": 0.0,
+      "timeouts": 0
+    }
+  },
+  "tasks_sha256": "c8ee443abc408ab4b19c72e79a8857677f9884b1d9d08acddf3fbf898521cf43"
+}

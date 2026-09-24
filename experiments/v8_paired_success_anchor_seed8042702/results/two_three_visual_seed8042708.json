@@ -1,0 +1,24 @@
+{
+  "episodes": [
+    {
+      "level": 2,
+      "min_lidar": 0.18110619485378265,
+      "name": "level2_00001",
+      "outcome": "collision",
+      "path_points": 32,
+      "side": "base",
+      "steps": 114
+    },
+    {
+      "level": 3,
+      "min_lidar": 0.32234999537467957,
+      "name": "level3_00001",
+      "outcome": "success",
+      "path_points": 30,
+      "side": "base",
+      "steps": 108
+    }
+  ],
+  "seed": 8042708,
+  "training": false
+}

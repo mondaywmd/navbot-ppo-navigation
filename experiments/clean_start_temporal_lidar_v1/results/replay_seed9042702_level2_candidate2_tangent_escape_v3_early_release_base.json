@@ -1,0 +1,23 @@
+{
+  "candidate": 2,
+  "level": 2,
+  "prior_outcomes": {
+    "base": "timeout300",
+    "mirror": "timeout300"
+  },
+  "rows": [
+    {
+      "distance300": 1.8069582887059426,
+      "final_distance": 0.9608972653320695,
+      "level": 2,
+      "minimum_lidar": 0.2292885184288025,
+      "outcome": "progress450",
+      "scene": "level2_00002",
+      "shield_reasons": "{\"slow\": 9, \"tangent_depart\": 182, \"tangent_rotate_only\": 157, \"tangent_turn\": 102}",
+      "side": "base",
+      "steps": 450
+    }
+  ],
+  "source_seed": 9042702,
+  "training": false
+}

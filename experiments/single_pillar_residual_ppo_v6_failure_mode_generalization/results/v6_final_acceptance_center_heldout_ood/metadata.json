@@ -1,0 +1,14 @@
+{
+  "checkpoint": "/root/catkin_ws/src/project_ppo/experiments/single_pillar_residual_ppo_v6_failure_mode_generalization/runs/v6_v5init_failure_modes_10k_seed61129/checkpoints/actor_iter0017_step00010001.pth",
+  "checkpoint_sha256": "f1765a3277290784e8386ca50d6f3d3078801aa13e3427b77e6eb33d53a05b5d",
+  "deterministic": true,
+  "max_steps": 300,
+  "order": [
+    "center",
+    "heldout_six",
+    "permanent_ood"
+  ],
+  "permanent_tasks_sha256": "c8ee443abc408ab4b19c72e79a8857677f9884b1d9d08acddf3fbf898521cf43",
+  "permanent_tasks_source": "/root/catkin_ws/src/project_ppo/experiments/single_pillar_residual_ppo_v5_adversarial_ood_eval/results/v5_final_seed29012_12tasks_5eps/tasks.json",
+  "ppo_updates": false
+}

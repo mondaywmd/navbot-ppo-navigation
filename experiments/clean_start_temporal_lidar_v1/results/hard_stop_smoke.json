@@ -1,0 +1,14 @@
+{
+  "final_front": 0.318326473236084,
+  "first_intervention_step": 6,
+  "minimum_lidar": 0.3087479770183563,
+  "passed": true,
+  "reasons": {
+    "clear": 5,
+    "predictive_stop": 19,
+    "slow": 26
+  },
+  "requested_linear": 0.25,
+  "steps": 50,
+  "training": false
+}

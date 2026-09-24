@@ -1,0 +1,229 @@
+{
+  "checks": [
+    {
+      "legal": true,
+      "name": "mirror_pair01_positive",
+      "pillar_target_margin": 0.6100565181451727,
+      "robot_pillar_margin": 0.43918256374541503,
+      "route_offset": 0.07938082855817466,
+      "wall_margin": 2.739860427928867
+    },
+    {
+      "legal": true,
+      "name": "mirror_pair01_negative",
+      "pillar_target_margin": 0.6100565181451727,
+      "robot_pillar_margin": 0.43918256374541503,
+      "route_offset": 0.07938082855817466,
+      "wall_margin": 2.739860427928867
+    },
+    {
+      "legal": true,
+      "name": "mirror_pair02_positive",
+      "pillar_target_margin": 0.6625416859762618,
+      "robot_pillar_margin": 0.3879451273113284,
+      "route_offset": 0.0911724030020457,
+      "wall_margin": 2.791853130641182
+    },
+    {
+      "legal": true,
+      "name": "mirror_pair02_negative",
+      "pillar_target_margin": 0.6625416859762618,
+      "robot_pillar_margin": 0.3879451273113284,
+      "route_offset": 0.0911724030020457,
+      "wall_margin": 2.791853130641182
+    },
+    {
+      "legal": true,
+      "name": "mirror_pair03_positive",
+      "pillar_target_margin": 0.6349642936915727,
+      "robot_pillar_margin": 0.41145427267696727,
+      "route_offset": 0.06602731370532797,
+      "wall_margin": 2.7648486360054942
+    },
+    {
+      "legal": true,
+      "name": "mirror_pair03_negative",
+      "pillar_target_margin": 0.6349642936915727,
+      "robot_pillar_margin": 0.41145427267696727,
+      "route_offset": 0.06602731370532797,
+      "wall_margin": 2.7648486360054942
+    },
+    {
+      "legal": true,
+      "name": "mirror_pair04_positive",
+      "pillar_target_margin": 0.6396941129965004,
+      "robot_pillar_margin": 0.40232365163362266,
+      "route_offset": 0.035655536075424855,
+      "wall_margin": 2.769680943394534
+    },
+    {
+      "legal": true,
+      "name": "mirror_pair04_negative",
+      "pillar_target_margin": 0.6396941129965004,
+      "robot_pillar_margin": 0.40232365163362266,
+      "route_offset": 0.035655536075424855,
+      "wall_margin": 2.769680943394534
+    },
+    {
+      "legal": true,
+      "name": "mirror_pair05_positive",
+      "pillar_target_margin": 0.7030170349682132,
+      "robot_pillar_margin": 0.33915230241638233,
+      "route_offset": 0.007405843486151127,
+      "wall_margin": 2.83208566189341
+    },
+    {
+      "legal": true,
+      "name": "mirror_pair05_negative",
+      "pillar_target_margin": 0.7030170349682132,
+      "robot_pillar_margin": 0.33915230241638233,
+      "route_offset": 0.007405843486151127,
+      "wall_margin": 2.83208566189341
+    },
+    {
+      "legal": true,
+      "name": "mirror_pair06_positive",
+      "pillar_target_margin": 0.6108924548693242,
+      "robot_pillar_margin": 0.44324973110202676,
+      "route_offset": 0.11664777290943522,
+      "wall_margin": 2.736952300524755
+    },
+    {
+      "legal": true,
+      "name": "mirror_pair06_negative",
+      "pillar_target_margin": 0.6108924548693242,
+      "robot_pillar_margin": 0.44324973110202676,
+      "route_offset": 0.11664777290943522,
+      "wall_margin": 2.736952300524755
+    }
+  ],
+  "generator": {
+    "pillar_x": [
+      0.8,
+      0.95
+    ],
+    "pillar_y_magnitude": [
+      0.045,
+      0.14
+    ],
+    "target_y_magnitude": [
+      0.035,
+      0.125
+    ],
+    "yaw_magnitude_deg": [
+      4.0,
+      12.0
+    ]
+  },
+  "scenes": [
+    {
+      "mirror_side": "positive",
+      "name": "mirror_pair01_positive",
+      "pair": 1,
+      "pillar_x": 0.9101395720711332,
+      "pillar_y": 0.1286178247513494,
+      "robot_yaw_deg": 10.623194512939154,
+      "target_y": 0.10794270962508697
+    },
+    {
+      "mirror_side": "negative",
+      "name": "mirror_pair01_negative",
+      "pair": 1,
+      "pillar_x": 0.9101395720711332,
+      "pillar_y": -0.1286178247513494,
+      "robot_yaw_deg": -10.623194512939154,
+      "target_y": -0.10794270962508697
+    },
+    {
+      "mirror_side": "positive",
+      "name": "mirror_pair02_positive",
+      "pair": 2,
+      "pillar_x": 0.8581468693588183,
+      "pillar_y": 0.1300488163465441,
+      "robot_yaw_deg": 6.119663985875933,
+      "target_y": 0.09038860658396553
+    },
+    {
+      "mirror_side": "negative",
+      "name": "mirror_pair02_negative",
+      "pair": 2,
+      "pillar_x": 0.8581468693588183,
+      "pillar_y": -0.1300488163465441,
+      "robot_yaw_deg": -6.119663985875933,
+      "target_y": -0.09038860658396553
+    },
+    {
+      "mirror_side": "positive",
+      "name": "mirror_pair03_positive",
+      "pair": 3,
+      "pillar_x": 0.885151363994506,
+      "pillar_y": 0.10581957802167836,
+      "robot_yaw_deg": 6.740254787726148,
+      "target_y": 0.08976046833784941
+    },
+    {
+      "mirror_side": "negative",
+      "name": "mirror_pair03_negative",
+      "pair": 3,
+      "pillar_x": 0.885151363994506,
+      "pillar_y": -0.10581957802167836,
+      "robot_yaw_deg": -6.740254787726148,
+      "target_y": -0.08976046833784941
+    },
+    {
+      "mirror_side": "positive",
+      "name": "mirror_pair04_positive",
+      "pair": 4,
+      "pillar_x": 0.8803190566054664,
+      "pillar_y": 0.05944228132694776,
+      "robot_yaw_deg": 5.099339045159753,
+      "target_y": 0.05401165722407916
+    },
+    {
+      "mirror_side": "negative",
+      "name": "mirror_pair04_negative",
+      "pair": 4,
+      "pillar_x": 0.8803190566054664,
+      "pillar_y": -0.05944228132694776,
+      "robot_yaw_deg": -5.099339045159753,
+      "target_y": -0.05401165722407916
+    },
+    {
+      "mirror_side": "positive",
+      "name": "mirror_pair05_positive",
+      "pair": 5,
+      "pillar_x": 0.8179143381065902,
+      "pillar_y": 0.045018108286766174,
+      "robot_yaw_deg": 9.076489427789525,
+      "target_y": 0.09195202961241236
+    },
+    {
+      "mirror_side": "negative",
+      "name": "mirror_pair05_negative",
+      "pair": 5,
+      "pillar_x": 0.8179143381065902,
+      "pillar_y": -0.045018108286766174,
+      "robot_yaw_deg": -9.076489427789525,
+      "target_y": -0.09195202961241236
+    },
+    {
+      "mirror_side": "positive",
+      "name": "mirror_pair06_positive",
+      "pair": 6,
+      "pillar_x": 0.9130476994752454,
+      "pillar_y": 0.1368720733492652,
+      "robot_yaw_deg": 9.191690838376221,
+      "target_y": 0.04423814611542734
+    },
+    {
+      "mirror_side": "negative",
+      "name": "mirror_pair06_negative",
+      "pair": 6,
+      "pillar_x": 0.9130476994752454,
+      "pillar_y": -0.1368720733492652,
+      "robot_yaw_deg": -9.191690838376221,
+      "target_y": -0.04423814611542734
+    }
+  ],
+  "seed": 9042603
+}

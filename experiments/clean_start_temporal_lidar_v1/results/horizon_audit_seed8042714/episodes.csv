@@ -1,0 +1,13 @@
+level,scene,side,outcome,steps,minimum_lidar,distance300,final_distance,shield_reasons
+1,level1_00001,base,success300,68,0.31907641887664795,,0.1776754563496191,"{""clear"": 67}"
+1,level1_00001_mirror,mirror,success300,68,0.3210490345954895,,0.18129418405277015,"{""clear"": 67}"
+1,level1_00002,base,success300,78,0.3403007686138153,,0.17930627703505664,"{""clear"": 76, ""predictive_stop"": 1}"
+1,level1_00002_mirror,mirror,success300,79,0.34418612718582153,,0.17485509917601472,"{""clear"": 78}"
+2,level2_00001,base,success300,90,0.3013668656349182,,0.19048368923930245,"{""clear"": 87, ""predictive_stop"": 2}"
+2,level2_00001_mirror,mirror,success300,92,0.29942017793655396,,0.16210299832227565,"{""clear"": 89, ""predictive_stop"": 1, ""slow"": 1}"
+2,level2_00002,base,success300,88,0.3220601975917816,,0.16137315611102335,"{""clear"": 87}"
+2,level2_00002_mirror,mirror,success300,88,0.3200075030326843,,0.18330852179605509,"{""clear"": 86, ""predictive_stop"": 1}"
+3,level3_00001,base,success300,102,0.28166747093200684,,0.16290625889054328,"{""clear"": 100, ""predictive_stop"": 1}"
+3,level3_00001_mirror,mirror,success300,102,0.2781367897987366,,0.16359179574418448,"{""clear"": 99, ""predictive_stop"": 2}"
+3,level3_00002,base,success300,82,0.3769981265068054,,0.164804730037712,"{""clear"": 80, ""predictive_stop"": 1}"
+3,level3_00002_mirror,mirror,success300,81,0.38564062118530273,,0.17597962546673396,"{""clear"": 80}"

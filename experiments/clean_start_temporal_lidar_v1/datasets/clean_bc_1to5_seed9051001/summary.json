@@ -1,0 +1,11 @@
+{
+  "episodes": 60,
+  "minimum_clearance": 0.2,
+  "observation_dim": 78,
+  "old_bc_used": false,
+  "old_weights_used": false,
+  "pairs": 30,
+  "samples": 5518,
+  "seed": 9051001,
+  "training": false
+}

@@ -1,0 +1,34 @@
+{
+  "candidate": 2,
+  "level": 2,
+  "prior_outcomes": {
+    "base": "timeout300",
+    "mirror": "timeout300"
+  },
+  "rows": [
+    {
+      "distance300": 1.8831857783345076,
+      "final_distance": 1.6755410548761398,
+      "level": 2,
+      "minimum_lidar": 0.2594526410102844,
+      "outcome": "stalled450",
+      "scene": "level2_00002",
+      "shield_reasons": "{\"clear\": 35, \"predictive_stop\": 207, \"slow\": 64, \"turn_side_slow\": 3, \"turn_side_stop\": 141}",
+      "side": "base",
+      "steps": 450
+    },
+    {
+      "distance300": 1.6795726049274033,
+      "final_distance": 2.2731850103622304,
+      "level": 2,
+      "minimum_lidar": 0.21652813255786896,
+      "outcome": "progress450",
+      "scene": "level2_00002_mirror",
+      "shield_reasons": "{\"clear\": 58, \"emergency_stop\": 50, \"predictive_stop\": 54, \"slow\": 121, \"turn_side_slow\": 15, \"turn_side_stop\": 152}",
+      "side": "mirror",
+      "steps": 450
+    }
+  ],
+  "source_seed": 9042702,
+  "training": false
+}

@@ -1,0 +1,162 @@
+{
+  "permanent_ood": {
+    "overall": {
+      "collision_rate": 20.0,
+      "collisions": 12,
+      "episodes": 60,
+      "mean_min_lidar": 0.29231270477175714,
+      "mean_steps": 190.36666666666667,
+      "min_lidar": 0.17320497334003448,
+      "success_rate": 71.66666666666667,
+      "successes": 43,
+      "timeout_rate": 8.333333333333334,
+      "timeouts": 5
+    },
+    "per_scenario": {
+      "ood_seed29012_task01": {
+        "collision_rate": 0.0,
+        "collisions": 0,
+        "episodes": 5,
+        "mean_min_lidar": 0.35094788670539856,
+        "mean_steps": 158.0,
+        "min_lidar": 0.2916310429573059,
+        "success_rate": 100.0,
+        "successes": 5,
+        "timeout_rate": 0.0,
+        "timeouts": 0
+      },
+      "ood_seed29012_task02": {
+        "collision_rate": 0.0,
+        "collisions": 0,
+        "episodes": 5,
+        "mean_min_lidar": 0.33590211868286135,
+        "mean_steps": 296.8,
+        "min_lidar": 0.2592393159866333,
+        "success_rate": 40.0,
+        "successes": 2,
+        "timeout_rate": 60.0,
+        "timeouts": 3
+      },
+      "ood_seed29012_task03": {
+        "collision_rate": 20.0,
+        "collisions": 1,
+        "episodes": 5,
+        "mean_min_lidar": 0.29611618220806124,
+        "mean_steps": 207.6,
+        "min_lidar": 0.1831250637769699,
+        "success_rate": 80.0,
+        "successes": 4,
+        "timeout_rate": 0.0,
+        "timeouts": 0
+      },
+      "ood_seed29012_task04": {
+        "collision_rate": 0.0,
+        "collisions": 0,
+        "episodes": 5,
+        "mean_min_lidar": 0.29729045033454893,
+        "mean_steps": 269.8,
+        "min_lidar": 0.2385179102420807,
+        "success_rate": 100.0,
+        "successes": 5,
+        "timeout_rate": 0.0,
+        "timeouts": 0
+      },
+      "ood_seed29012_task05": {
+        "collision_rate": 0.0,
+        "collisions": 0,
+        "episodes": 5,
+        "mean_min_lidar": 0.43882325291633606,
+        "mean_steps": 265.6,
+        "min_lidar": 0.383201003074646,
+        "success_rate": 60.0,
+        "successes": 3,
+        "timeout_rate": 40.0,
+        "timeouts": 2
+      },
+      "ood_seed29012_task06": {
+        "collision_rate": 60.0,
+        "collisions": 3,
+        "episodes": 5,
+        "mean_min_lidar": 0.20950630009174348,
+        "mean_steps": 92.8,
+        "min_lidar": 0.18712085485458374,
+        "success_rate": 40.0,
+        "successes": 2,
+        "timeout_rate": 0.0,
+        "timeouts": 0
+      },
+      "ood_seed29012_task07": {
+        "collision_rate": 100.0,
+        "collisions": 5,
+        "episodes": 5,
+        "mean_min_lidar": 0.1884501427412033,
+        "mean_steps": 15.2,
+        "min_lidar": 0.17320497334003448,
+        "success_rate": 0.0,
+        "successes": 0,
+        "timeout_rate": 0.0,
+        "timeouts": 0
+      },
+      "ood_seed29012_task08": {
+        "collision_rate": 60.0,
+        "collisions": 3,
+        "episodes": 5,
+        "mean_min_lidar": 0.2091598093509674,
+        "mean_steps": 114.2,
+        "min_lidar": 0.1806311160326004,
+        "success_rate": 40.0,
+        "successes": 2,
+        "timeout_rate": 0.0,
+        "timeouts": 0
+      },
+      "ood_seed29012_task09": {
+        "collision_rate": 0.0,
+        "collisions": 0,
+        "episodes": 5,
+        "mean_min_lidar": 0.2862894058227539,
+        "mean_steps": 282.6,
+        "min_lidar": 0.22759315371513367,
+        "success_rate": 100.0,
+        "successes": 5,
+        "timeout_rate": 0.0,
+        "timeouts": 0
+      },
+      "ood_seed29012_task10": {
+        "collision_rate": 0.0,
+        "collisions": 0,
+        "episodes": 5,
+        "mean_min_lidar": 0.296475887298584,
+        "mean_steps": 171.4,
+        "min_lidar": 0.2797781229019165,
+        "success_rate": 100.0,
+        "successes": 5,
+        "timeout_rate": 0.0,
+        "timeouts": 0
+      },
+      "ood_seed29012_task11": {
+        "collision_rate": 0.0,
+        "collisions": 0,
+        "episodes": 5,
+        "mean_min_lidar": 0.2826836884021759,
+        "mean_steps": 265.6,
+        "min_lidar": 0.23030537366867065,
+        "success_rate": 100.0,
+        "successes": 5,
+        "timeout_rate": 0.0,
+        "timeouts": 0
+      },
+      "ood_seed29012_task12": {
+        "collision_rate": 0.0,
+        "collisions": 0,
+        "episodes": 5,
+        "mean_min_lidar": 0.3161073327064514,
+        "mean_steps": 144.8,
+        "min_lidar": 0.27690204977989197,
+        "success_rate": 100.0,
+        "successes": 5,
+        "timeout_rate": 0.0,
+        "timeouts": 0
+      }
+    }
+  }
+}

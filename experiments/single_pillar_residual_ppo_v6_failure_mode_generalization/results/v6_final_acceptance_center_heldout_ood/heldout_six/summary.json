@@ -1,0 +1,88 @@
+{
+  "overall": {
+    "collision_rate": 0.0,
+    "collisions": 0,
+    "episodes": 60,
+    "mean_min_lidar": 0.30799550488591193,
+    "mean_steps": 216.81666666666666,
+    "min_lidar": 0.20878051221370697,
+    "success_rate": 100.0,
+    "successes": 60,
+    "timeout_rate": 0.0,
+    "timeouts": 0
+  },
+  "per_scenario": {
+    "pillar_left_10cm": {
+      "collision_rate": 0.0,
+      "collisions": 0,
+      "episodes": 10,
+      "mean_min_lidar": 0.3501092195510864,
+      "mean_steps": 185.5,
+      "min_lidar": 0.28150421380996704,
+      "success_rate": 100.0,
+      "successes": 10,
+      "timeout_rate": 0.0,
+      "timeouts": 0
+    },
+    "pillar_right_10cm": {
+      "collision_rate": 0.0,
+      "collisions": 0,
+      "episodes": 10,
+      "mean_min_lidar": 0.252369812130928,
+      "mean_steps": 247.7,
+      "min_lidar": 0.20878051221370697,
+      "success_rate": 100.0,
+      "successes": 10,
+      "timeout_rate": 0.0,
+      "timeouts": 0
+    },
+    "robot_yaw_left_5deg": {
+      "collision_rate": 0.0,
+      "collisions": 0,
+      "episodes": 10,
+      "mean_min_lidar": 0.26025573909282684,
+      "mean_steps": 208.8,
+      "min_lidar": 0.2128535360097885,
+      "success_rate": 100.0,
+      "successes": 10,
+      "timeout_rate": 0.0,
+      "timeouts": 0
+    },
+    "robot_yaw_right_5deg": {
+      "collision_rate": 0.0,
+      "collisions": 0,
+      "episodes": 10,
+      "mean_min_lidar": 0.34505113363265993,
+      "mean_steps": 221.5,
+      "min_lidar": 0.28807875514030457,
+      "success_rate": 100.0,
+      "successes": 10,
+      "timeout_rate": 0.0,
+      "timeouts": 0
+    },
+    "target_left_10cm": {
+      "collision_rate": 0.0,
+      "collisions": 0,
+      "episodes": 10,
+      "mean_min_lidar": 0.3207131490111351,
+      "mean_steps": 236.9,
+      "min_lidar": 0.23644505441188812,
+      "success_rate": 100.0,
+      "successes": 10,
+      "timeout_rate": 0.0,
+      "timeouts": 0
+    },
+    "target_right_10cm": {
+      "collision_rate": 0.0,
+      "collisions": 0,
+      "episodes": 10,
+      "mean_min_lidar": 0.31947397589683535,
+      "mean_steps": 200.5,
+      "min_lidar": 0.26062753796577454,
+      "success_rate": 100.0,
+      "successes": 10,
+      "timeout_rate": 0.0,
+      "timeouts": 0
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "candidate": 2,
+  "level": 2,
+  "prior_outcomes": {
+    "base": "timeout300",
+    "mirror": "timeout300"
+  },
+  "rows": [
+    {
+      "distance300": 1.7557833287706135,
+      "final_distance": 1.7313938305550343,
+      "level": 2,
+      "minimum_lidar": 0.19950062036514282,
+      "outcome": "collision",
+      "scene": "level2_00002",
+      "shield_reasons": "{\"clear\": 29, \"collision_stop\": 1, \"slow\": 26, \"tangent_depart\": 145, \"tangent_turn\": 128}",
+      "side": "base",
+      "steps": 329
+    },
+    {
+      "distance300": null,
+      "final_distance": 1.574637107878234,
+      "level": 2,
+      "minimum_lidar": 0.19715681672096252,
+      "outcome": "collision",
+      "scene": "level2_00002_mirror",
+      "shield_reasons": "{\"clear\": 12, \"collision_stop\": 1, \"slow\": 19, \"tangent_depart\": 96, \"tangent_turn\": 135}",
+      "side": "mirror",
+      "steps": 263
+    }
+  ],
+  "source_seed": 9042702,
+  "training": false
+}

@@ -1,0 +1,16 @@
+clip: 0.2
+exp_id: v02_simple_env_60_reward_proportion
+gamma: 0.99
+hybrid_residual: false
+lr: 0.0003
+max_timesteps_per_episode: 300
+method_name: v6_v5init_failure_modes_10k_seed61129
+n_updates_per_iteration: 5
+native_residual: true
+normalize_returns: true
+output_dir: /root/catkin_ws/src/project_ppo/experiments/single_pillar_residual_ppo_v6_failure_mode_generalization/runs
+render: true
+render_every_i: 10
+save_freq: 1
+seed: 61129
+timesteps_per_batch: 500
