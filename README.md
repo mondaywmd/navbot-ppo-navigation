@@ -1,5 +1,7 @@
 # NavBot PPO Navigation
 
+[Website](https://mondaywmd.github.io/monday-robotics-universe/) · [Project & experiments](https://mondaywmd.github.io/monday-robotics-universe/navbot.html) · [About Monday](https://mondaywmd.github.io/monday-robotics-universe/about.html)
+
 An AI-assisted robot-learning project for differential-drive navigation in ROS Noetic and Gazebo Classic. The repository records the full path from basic motion calibration and procedural obstacle generation to behavior cloning, PPO, frozen evaluation, failure diagnosis, and a clean-start temporal-LiDAR policy.
 
 The goal is not only to train a controller, but to build a reproducible experimental loop:
